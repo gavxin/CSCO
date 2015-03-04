@@ -1,0 +1,1046 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADD_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::ADD_ASSIGN=276;$/;"	m	class:YY_CParser_CLASS	file:
+ADD_ASSIGN	CParser.cc	/^static const int ADD_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+ADD_ASSIGN	CParser.cc	348;"	d	file:
+ADD_ASSIGN	CParser.h	/^static const int ADD_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+ADD_ASSIGN	CParser.h	248;"	d
+AND_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::AND_ASSIGN=280;$/;"	m	class:YY_CParser_CLASS	file:
+AND_ASSIGN	CParser.cc	/^static const int AND_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+AND_ASSIGN	CParser.cc	352;"	d	file:
+AND_ASSIGN	CParser.h	/^static const int AND_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+AND_ASSIGN	CParser.h	252;"	d
+AND_OP	CParser.cc	/^const int YY_CParser_CLASS::AND_OP=271;$/;"	m	class:YY_CParser_CLASS	file:
+AND_OP	CParser.cc	/^static const int AND_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+AND_OP	CParser.cc	343;"	d	file:
+AND_OP	CParser.h	/^static const int AND_OP;$/;"	m	class:YY_CParser_INHERIT
+AND_OP	CParser.h	243;"	d
+AUTO	CParser.cc	/^const int YY_CParser_CLASS::AUTO=287;$/;"	m	class:YY_CParser_CLASS	file:
+AUTO	CParser.cc	/^static const int AUTO;$/;"	m	class:YY_CParser_INHERIT	file:
+AUTO	CParser.cc	359;"	d	file:
+AUTO	CParser.h	/^static const int AUTO;$/;"	m	class:YY_CParser_INHERIT
+AUTO	CParser.h	259;"	d
+Action	IObfusNode.h	/^	virtual void Action(Node *node)$/;"	f	class:IObfusNode
+Action	ONBlockItemList.cpp	/^void ONBlockItemList::Action(Node *node)$/;"	f	class:ONBlockItemList
+Action	ONConstant.cpp	/^void ONConstant::Action(Node *node)$/;"	f	class:ONConstant
+Action	ONDoWhile.cpp	/^void ONDoWhile::Action(Node *node)$/;"	f	class:ONDoWhile
+Action	ONFor.cpp	/^void ONFor::Action(Node *node)$/;"	f	class:ONFor
+Action	ONIdentifier.cpp	/^void ONIdentifier::Action(Node *node)$/;"	f	class:ONIdentifier
+Action	ONString.cpp	/^void ONString::Action(Node *node)$/;"	f	class:ONString
+Action	ONWhile.cpp	/^void ONWhile::Action(Node *node)$/;"	f	class:ONWhile
+AddChildNode	Node.cpp	/^void Node::AddChildNode(Node *n)$/;"	f	class:Node
+AddChildNode	Node.cpp	/^void Node::AddChildNode(int num, ...)$/;"	f	class:Node
+AddGlobleVar	ONBlockItemList.cpp	/^void ONBlockItemList::AddGlobleVar()$/;"	f	class:ONBlockItemList
+AddId	NotObfusIdTable.cpp	/^void NotObfusIdTable::AddId(string name)$/;"	f	class:NotObfusIdTable
+AddRecord	RecordTable.cpp	/^void RecordTable::AddRecord(string name, string afterName, $/;"	f	class:RecordTable
+AddTYPE_NAME	SymbolTable.cpp	/^void SymbolTable::AddTYPE_NAME(string word)$/;"	f	class:SymbolTable
+AddToSymbolTable	CAnalys.cc	/^void CAnalys::AddToSymbolTable(int t,TokenLocation l)$/;"	f	class:CAnalys
+AddToTable	SymbolTable.cpp	/^void SymbolTable::AddToTable(Symbol * symbol)$/;"	f	class:SymbolTable
+AppearedTime	Symbol.cpp	/^int Symbol::AppearedTime()$/;"	f	class:Symbol
+ArgPack	ArgPack.cpp	/^ArgPack::ArgPack(int argc, char *const argv []) :$/;"	f	class:ArgPack
+ArgPack	ArgPack.h	/^class ArgPack$/;"	c
+BADARG	getopt.h	49;"	d
+BADCH	getopt.h	48;"	d
+BEGIN	CLexer.cc	190;"	d	file:
+BOOL	CParser.cc	/^const int YY_CParser_CLASS::BOOL=302;$/;"	m	class:YY_CParser_CLASS	file:
+BOOL	CParser.cc	/^static const int BOOL;$/;"	m	class:YY_CParser_INHERIT	file:
+BOOL	CParser.cc	374;"	d	file:
+BOOL	CParser.h	/^static const int BOOL;$/;"	m	class:YY_CParser_INHERIT
+BOOL	CParser.h	274;"	d
+BREAK	CParser.cc	/^const int YY_CParser_CLASS::BREAK=319;$/;"	m	class:YY_CParser_CLASS	file:
+BREAK	CParser.cc	/^static const int BREAK;$/;"	m	class:YY_CParser_INHERIT	file:
+BREAK	CParser.cc	391;"	d	file:
+BREAK	CParser.h	/^static const int BREAK;$/;"	m	class:YY_CParser_INHERIT
+BREAK	CParser.h	291;"	d
+BeginAction	CLexer.cc	/^void CLexer::BeginAction(void)$/;"	f	class:CLexer
+CASE	CParser.cc	/^const int YY_CParser_CLASS::CASE=309;$/;"	m	class:YY_CParser_CLASS	file:
+CASE	CParser.cc	/^static const int CASE;$/;"	m	class:YY_CParser_INHERIT	file:
+CASE	CParser.cc	381;"	d	file:
+CASE	CParser.h	/^static const int CASE;$/;"	m	class:YY_CParser_INHERIT
+CASE	CParser.h	281;"	d
+CAnalys	CAnalys.cc	/^CAnalys::CAnalys()$/;"	f	class:CAnalys
+CAnalys	CAnalys.h	/^class CAnalys : public CLexer, public CParser$/;"	c
+CHAR	CParser.cc	/^const int YY_CParser_CLASS::CHAR=291;$/;"	m	class:YY_CParser_CLASS	file:
+CHAR	CParser.cc	/^static const int CHAR;$/;"	m	class:YY_CParser_INHERIT	file:
+CHAR	CParser.cc	363;"	d	file:
+CHAR	CParser.h	/^static const int CHAR;$/;"	m	class:YY_CParser_INHERIT
+CHAR	CParser.h	263;"	d
+CN	CParser.cc	114;"	d	file:
+CN	CParser.h	49;"	d
+COMMENT	ExtraString.h	/^	enum ElementType { TYPESET, COMMENT, PREPROCESS } elmentType;$/;"	e	enum:ExtraString::ElementType
+COMPLEX	CParser.cc	/^const int YY_CParser_CLASS::COMPLEX=303;$/;"	m	class:YY_CParser_CLASS	file:
+COMPLEX	CParser.cc	/^static const int COMPLEX;$/;"	m	class:YY_CParser_INHERIT	file:
+COMPLEX	CParser.cc	375;"	d	file:
+COMPLEX	CParser.h	/^static const int COMPLEX;$/;"	m	class:YY_CParser_INHERIT
+COMPLEX	CParser.h	275;"	d
+CONST	CParser.cc	/^const int YY_CParser_CLASS::CONST=299;$/;"	m	class:YY_CParser_CLASS	file:
+CONST	CParser.cc	/^static const int CONST;$/;"	m	class:YY_CParser_INHERIT	file:
+CONST	CParser.cc	371;"	d	file:
+CONST	CParser.h	/^static const int CONST;$/;"	m	class:YY_CParser_INHERIT
+CONST	CParser.h	271;"	d
+CONSTANT	CParser.cc	/^const int YY_CParser_CLASS::CONSTANT=259;$/;"	m	class:YY_CParser_CLASS	file:
+CONSTANT	CParser.cc	/^static const int CONSTANT;$/;"	m	class:YY_CParser_INHERIT	file:
+CONSTANT	CParser.cc	331;"	d	file:
+CONSTANT	CParser.h	/^static const int CONSTANT;$/;"	m	class:YY_CParser_INHERIT
+CONSTANT	CParser.h	231;"	d
+CONTINUE	CParser.cc	/^const int YY_CParser_CLASS::CONTINUE=318;$/;"	m	class:YY_CParser_CLASS	file:
+CONTINUE	CParser.cc	/^static const int CONTINUE;$/;"	m	class:YY_CParser_INHERIT	file:
+CONTINUE	CParser.cc	390;"	d	file:
+CONTINUE	CParser.h	/^static const int CONTINUE;$/;"	m	class:YY_CParser_INHERIT
+CONTINUE	CParser.h	290;"	d
+CodeFile	CodeFile.cpp	/^CodeFile::CodeFile(string name, string out, bool isRemoveTypeset) :$/;"	f	class:CodeFile
+CodeFile	CodeFile.h	/^class CodeFile$/;"	c
+CommentElement	ExtraString.h	/^	CommentElement(string t)  {type = ExtraString::COMMENT; content= t;};$/;"	f	class:CommentElement
+CommentElement	ExtraString.h	/^class CommentElement : public IExtraStringElement$/;"	c
+Convert2HexStyle	ONString.cpp	/^string ONString::Convert2HexStyle(string str)$/;"	f	class:ONString
+ConvertIdentifier2TYPE_NAME	SymbolTable.cpp	/^void SymbolTable::ConvertIdentifier2TYPE_NAME(string name)$/;"	f	class:SymbolTable
+CreateElement	ExtraString.cpp	/^IExtraStringElement *ExtraString::CreateElement(ElementType type, string t)$/;"	f	class:ExtraString
+CreateNodeTOKEN	IObfusNode.h	/^	Node * CreateNodeTOKEN(string str)$/;"	f	class:IObfusNode
+DEC_OP	CParser.cc	/^const int YY_CParser_CLASS::DEC_OP=264;$/;"	m	class:YY_CParser_CLASS	file:
+DEC_OP	CParser.cc	/^static const int DEC_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+DEC_OP	CParser.cc	336;"	d	file:
+DEC_OP	CParser.h	/^static const int DEC_OP;$/;"	m	class:YY_CParser_INHERIT
+DEC_OP	CParser.h	236;"	d
+DEFAULT	CParser.cc	/^const int YY_CParser_CLASS::DEFAULT=310;$/;"	m	class:YY_CParser_CLASS	file:
+DEFAULT	CParser.cc	/^static const int DEFAULT;$/;"	m	class:YY_CParser_INHERIT	file:
+DEFAULT	CParser.cc	382;"	d	file:
+DEFAULT	CParser.h	/^static const int DEFAULT;$/;"	m	class:YY_CParser_INHERIT
+DEFAULT	CParser.h	282;"	d
+DIV_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::DIV_ASSIGN=274;$/;"	m	class:YY_CParser_CLASS	file:
+DIV_ASSIGN	CParser.cc	/^static const int DIV_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+DIV_ASSIGN	CParser.cc	346;"	d	file:
+DIV_ASSIGN	CParser.h	/^static const int DIV_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+DIV_ASSIGN	CParser.h	246;"	d
+DO	CParser.cc	/^const int YY_CParser_CLASS::DO=315;$/;"	m	class:YY_CParser_CLASS	file:
+DO	CParser.cc	/^static const int DO;$/;"	m	class:YY_CParser_INHERIT	file:
+DO	CParser.cc	387;"	d	file:
+DO	CParser.h	/^static const int DO;$/;"	m	class:YY_CParser_INHERIT
+DO	CParser.h	287;"	d
+DOUBLE	CParser.cc	/^const int YY_CParser_CLASS::DOUBLE=298;$/;"	m	class:YY_CParser_CLASS	file:
+DOUBLE	CParser.cc	/^static const int DOUBLE;$/;"	m	class:YY_CParser_INHERIT	file:
+DOUBLE	CParser.cc	370;"	d	file:
+DOUBLE	CParser.h	/^static const int DOUBLE;$/;"	m	class:YY_CParser_INHERIT
+DOUBLE	CParser.h	270;"	d
+ECHO	CLexer.cc	121;"	d	file:
+ECHO	CLexer.cc	171;"	d	file:
+ELLIPSIS	CParser.cc	/^const int YY_CParser_CLASS::ELLIPSIS=308;$/;"	m	class:YY_CParser_CLASS	file:
+ELLIPSIS	CParser.cc	/^static const int ELLIPSIS;$/;"	m	class:YY_CParser_INHERIT	file:
+ELLIPSIS	CParser.cc	380;"	d	file:
+ELLIPSIS	CParser.h	/^static const int ELLIPSIS;$/;"	m	class:YY_CParser_INHERIT
+ELLIPSIS	CParser.h	280;"	d
+ELSE	CParser.cc	/^const int YY_CParser_CLASS::ELSE=312;$/;"	m	class:YY_CParser_CLASS	file:
+ELSE	CParser.cc	/^static const int ELSE;$/;"	m	class:YY_CParser_INHERIT	file:
+ELSE	CParser.cc	384;"	d	file:
+ELSE	CParser.h	/^static const int ELSE;$/;"	m	class:YY_CParser_INHERIT
+ELSE	CParser.h	284;"	d
+EMSG	getopt.h	50;"	d
+ENUM	CParser.cc	/^const int YY_CParser_CLASS::ENUM=307;$/;"	m	class:YY_CParser_CLASS	file:
+ENUM	CParser.cc	/^static const int ENUM;$/;"	m	class:YY_CParser_INHERIT	file:
+ENUM	CParser.cc	379;"	d	file:
+ENUM	CParser.h	/^static const int ENUM;$/;"	m	class:YY_CParser_INHERIT
+ENUM	CParser.h	279;"	d
+EOB_ACT_CONTINUE_SCAN	CLexer.cc	242;"	d	file:
+EOB_ACT_END_OF_FILE	CLexer.cc	243;"	d	file:
+EOB_ACT_LAST_MATCH	CLexer.cc	244;"	d	file:
+EOF_DONE	CLexer.cc	280;"	d	file:
+EOF_NOT_SEEN	CLexer.cc	275;"	d	file:
+EOF_PENDING	CLexer.cc	279;"	d	file:
+EQ_OP	CParser.cc	/^const int YY_CParser_CLASS::EQ_OP=269;$/;"	m	class:YY_CParser_CLASS	file:
+EQ_OP	CParser.cc	/^static const int EQ_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+EQ_OP	CParser.cc	341;"	d	file:
+EQ_OP	CParser.h	/^static const int EQ_OP;$/;"	m	class:YY_CParser_INHERIT
+EQ_OP	CParser.h	241;"	d
+EXTERN	CParser.cc	/^const int YY_CParser_CLASS::EXTERN=285;$/;"	m	class:YY_CParser_CLASS	file:
+EXTERN	CParser.cc	/^static const int EXTERN;$/;"	m	class:YY_CParser_INHERIT	file:
+EXTERN	CParser.cc	357;"	d	file:
+EXTERN	CParser.h	/^static const int EXTERN;$/;"	m	class:YY_CParser_INHERIT
+EXTERN	CParser.h	257;"	d
+ElementType	ExtraString.h	/^	enum ElementType { TYPESET, COMMENT, PREPROCESS } elmentType;$/;"	g	class:ExtraString
+ExtraString	ExtraString.cpp	/^ExtraString::ExtraString(void)$/;"	f	class:ExtraString
+ExtraString	ExtraString.h	/^class ExtraString$/;"	c
+FLEX_HEADER_CLexer_h	CLexer.h	2;"	d
+FLEX_SCANNER	CLexer.cc	17;"	d	file:
+FLOAT	CParser.cc	/^const int YY_CParser_CLASS::FLOAT=297;$/;"	m	class:YY_CParser_CLASS	file:
+FLOAT	CParser.cc	/^static const int FLOAT;$/;"	m	class:YY_CParser_INHERIT	file:
+FLOAT	CParser.cc	369;"	d	file:
+FLOAT	CParser.h	/^static const int FLOAT;$/;"	m	class:YY_CParser_INHERIT
+FLOAT	CParser.h	269;"	d
+FOR	CParser.cc	/^const int YY_CParser_CLASS::FOR=316;$/;"	m	class:YY_CParser_CLASS	file:
+FOR	CParser.cc	/^static const int FOR;$/;"	m	class:YY_CParser_INHERIT	file:
+FOR	CParser.cc	388;"	d	file:
+FOR	CParser.h	/^static const int FOR;$/;"	m	class:YY_CParser_INHERIT
+FOR	CParser.h	288;"	d
+FUNC	Symbol.h	/^	enum SymbolType { IDENTIFIER, VAR, FUNC, TYPE_NAME } type;$/;"	e	enum:Symbol::SymbolType
+FindTPYEDEFDeclaration	CAnalys.cc	/^void CAnalys::FindTPYEDEFDeclaration(Node *node)$/;"	f	class:CAnalys
+FunctionNode	FunctionNode.h	/^class FunctionNode :$/;"	c
+GE_OP	CParser.cc	/^const int YY_CParser_CLASS::GE_OP=268;$/;"	m	class:YY_CParser_CLASS	file:
+GE_OP	CParser.cc	/^static const int GE_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+GE_OP	CParser.cc	340;"	d	file:
+GE_OP	CParser.h	/^static const int GE_OP;$/;"	m	class:YY_CParser_INHERIT
+GE_OP	CParser.h	240;"	d
+GLOBAL	Symbol.h	/^	enum SymbolScope { GLOBAL, LOCAL } scope;$/;"	e	enum:Symbol::SymbolScope
+GOTO	CParser.cc	/^const int YY_CParser_CLASS::GOTO=317;$/;"	m	class:YY_CParser_CLASS	file:
+GOTO	CParser.cc	/^static const int GOTO;$/;"	m	class:YY_CParser_INHERIT	file:
+GOTO	CParser.cc	389;"	d	file:
+GOTO	CParser.h	/^static const int GOTO;$/;"	m	class:YY_CParser_INHERIT
+GOTO	CParser.h	289;"	d
+Generate	IdentifierGenerator.cpp	/^string IdentifierGenerator::Generate()$/;"	f	class:IdentifierGenerator
+Generate	NumberExpGenerator.cpp	/^string NumberExpGenerator::Generate(double constant)$/;"	f	class:NumberExpGenerator
+GenerateId	IObfusNode.h	/^	string GenerateId() {$/;"	f	class:IObfusNode
+GenerateIdentifier	ONIdentifier.cpp	/^string ONIdentifier::GenerateIdentifier()$/;"	f	class:ONIdentifier
+GenerateRandomSequence	ONBlockItemList.cpp	/^void ONBlockItemList::GenerateRandomSequence(vector<int> &seq, int size)$/;"	f	class:ONBlockItemList
+GenerateRandomStatementBlocks	ONBlockItemList.cpp	/^void ONBlockItemList::GenerateRandomStatementBlocks(vector<string> &statementBlock, int blocksize, int numStatement, vector<Node *> statements)$/;"	f	class:ONBlockItemList
+GetSize	SymbolTable.cpp	/^int SymbolTable::GetSize()$/;"	f	class:SymbolTable
+IDENTIFIER	CParser.cc	/^const int YY_CParser_CLASS::IDENTIFIER=258;$/;"	m	class:YY_CParser_CLASS	file:
+IDENTIFIER	CParser.cc	/^static const int IDENTIFIER;$/;"	m	class:YY_CParser_INHERIT	file:
+IDENTIFIER	CParser.cc	330;"	d	file:
+IDENTIFIER	CParser.h	/^static const int IDENTIFIER;$/;"	m	class:YY_CParser_INHERIT
+IDENTIFIER	CParser.h	230;"	d
+IDENTIFIER	Symbol.h	/^	enum SymbolType { IDENTIFIER, VAR, FUNC, TYPE_NAME } type;$/;"	e	enum:Symbol::SymbolType
+ID_LEN	ONIdentifier.h	/^	static const int ID_LEN=8;$/;"	m	class:ONIdentifier
+ID_MIN_LEN	IdentifierGenerator.h	/^	static const int ID_MIN_LEN = 8;$/;"	m	class:IdentifierGenerator
+IExtraStringElement	ExtraString.h	/^	IExtraStringElement(){};$/;"	f	class:IExtraStringElement
+IExtraStringElement	ExtraString.h	/^class IExtraStringElement$/;"	c
+IF	CParser.cc	/^const int YY_CParser_CLASS::IF=311;$/;"	m	class:YY_CParser_CLASS	file:
+IF	CParser.cc	/^static const int IF;$/;"	m	class:YY_CParser_INHERIT	file:
+IF	CParser.cc	383;"	d	file:
+IF	CParser.h	/^static const int IF;$/;"	m	class:YY_CParser_INHERIT
+IF	CParser.h	283;"	d
+IMAGINARY	CParser.cc	/^const int YY_CParser_CLASS::IMAGINARY=304;$/;"	m	class:YY_CParser_CLASS	file:
+IMAGINARY	CParser.cc	/^static const int IMAGINARY;$/;"	m	class:YY_CParser_INHERIT	file:
+IMAGINARY	CParser.cc	376;"	d	file:
+IMAGINARY	CParser.h	/^static const int IMAGINARY;$/;"	m	class:YY_CParser_INHERIT
+IMAGINARY	CParser.h	276;"	d
+INC_OP	CParser.cc	/^const int YY_CParser_CLASS::INC_OP=263;$/;"	m	class:YY_CParser_CLASS	file:
+INC_OP	CParser.cc	/^static const int INC_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+INC_OP	CParser.cc	335;"	d	file:
+INC_OP	CParser.h	/^static const int INC_OP;$/;"	m	class:YY_CParser_INHERIT
+INC_OP	CParser.h	235;"	d
+INITIAL	CLexer.cc	199;"	d	file:
+INLINE	CParser.cc	/^const int YY_CParser_CLASS::INLINE=289;$/;"	m	class:YY_CParser_CLASS	file:
+INLINE	CParser.cc	/^static const int INLINE;$/;"	m	class:YY_CParser_INHERIT	file:
+INLINE	CParser.cc	361;"	d	file:
+INLINE	CParser.h	/^static const int INLINE;$/;"	m	class:YY_CParser_INHERIT
+INLINE	CParser.h	261;"	d
+INT	CParser.cc	/^const int YY_CParser_CLASS::INT=293;$/;"	m	class:YY_CParser_CLASS	file:
+INT	CParser.cc	/^static const int INT;$/;"	m	class:YY_CParser_INHERIT	file:
+INT	CParser.cc	365;"	d	file:
+INT	CParser.h	/^static const int INT;$/;"	m	class:YY_CParser_INHERIT
+INT	CParser.h	265;"	d
+IObfusNode	IObfusNode.h	/^	IObfusNode(void)$/;"	f	class:IObfusNode
+IObfusNode	IObfusNode.h	/^class IObfusNode$/;"	c
+IdLookLike	IdentifierGenerator.h	/^	enum IdLookLike { LL_NORMAL, LL_O0, LL_l1, LL_CUSTOM } idLookLike;$/;"	g	class:IdentifierGenerator
+IdentifierGenerator	IdentifierGenerator.cpp	/^IdentifierGenerator::IdentifierGenerator(void)$/;"	f	class:IdentifierGenerator
+IdentifierGenerator	IdentifierGenerator.h	/^class IdentifierGenerator$/;"	c
+InitAction	IObfusNode.h	/^	virtual void InitAction(){};$/;"	f	class:IObfusNode
+InitAction	ONBlockItemList.cpp	/^void ONBlockItemList::InitAction()$/;"	f	class:ONBlockItemList
+InputNotObfusIdFile	NotObfusIdTable.cpp	/^bool NotObfusIdTable::InputNotObfusIdFile(string path)$/;"	f	class:NotObfusIdTable
+InputTYPE_NAMEFile	SymbolTable.cpp	/^bool SymbolTable::InputTYPE_NAMEFile(string path)$/;"	f	class:SymbolTable
+JudgeType	IObfusNode.h	/^	virtual bool JudgeType(Node *node)$/;"	f	class:IObfusNode
+JudgeType	ONBlockItemList.cpp	/^bool ONBlockItemList::JudgeType(Node *node)$/;"	f	class:ONBlockItemList
+JudgeType	ONConstant.cpp	/^bool ONConstant::JudgeType(Node *node)$/;"	f	class:ONConstant
+JudgeType	ONDoWhile.cpp	/^bool ONDoWhile::JudgeType(Node *node)$/;"	f	class:ONDoWhile
+JudgeType	ONFor.cpp	/^bool ONFor::JudgeType(Node *node)$/;"	f	class:ONFor
+JudgeType	ONIdentifier.cpp	/^bool ONIdentifier::JudgeType(Node *node)$/;"	f	class:ONIdentifier
+JudgeType	ONString.cpp	/^bool ONString::JudgeType(Node *node)$/;"	f	class:ONString
+JudgeType	ONWhile.cpp	/^bool ONWhile::JudgeType(Node *node)$/;"	f	class:ONWhile
+LEFT_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::LEFT_ASSIGN=278;$/;"	m	class:YY_CParser_CLASS	file:
+LEFT_ASSIGN	CParser.cc	/^static const int LEFT_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+LEFT_ASSIGN	CParser.cc	350;"	d	file:
+LEFT_ASSIGN	CParser.h	/^static const int LEFT_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+LEFT_ASSIGN	CParser.h	250;"	d
+LEFT_OP	CParser.cc	/^const int YY_CParser_CLASS::LEFT_OP=265;$/;"	m	class:YY_CParser_CLASS	file:
+LEFT_OP	CParser.cc	/^static const int LEFT_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+LEFT_OP	CParser.cc	337;"	d	file:
+LEFT_OP	CParser.h	/^static const int LEFT_OP;$/;"	m	class:YY_CParser_INHERIT
+LEFT_OP	CParser.h	237;"	d
+LE_OP	CParser.cc	/^const int YY_CParser_CLASS::LE_OP=267;$/;"	m	class:YY_CParser_CLASS	file:
+LE_OP	CParser.cc	/^static const int LE_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+LE_OP	CParser.cc	339;"	d	file:
+LE_OP	CParser.h	/^static const int LE_OP;$/;"	m	class:YY_CParser_INHERIT
+LE_OP	CParser.h	239;"	d
+LL_CUSTOM	IdentifierGenerator.h	/^	enum IdLookLike { LL_NORMAL, LL_O0, LL_l1, LL_CUSTOM } idLookLike;$/;"	e	enum:IdentifierGenerator::IdLookLike
+LL_NORMAL	IdentifierGenerator.h	/^	enum IdLookLike { LL_NORMAL, LL_O0, LL_l1, LL_CUSTOM } idLookLike;$/;"	e	enum:IdentifierGenerator::IdLookLike
+LL_O0	IdentifierGenerator.h	/^	enum IdLookLike { LL_NORMAL, LL_O0, LL_l1, LL_CUSTOM } idLookLike;$/;"	e	enum:IdentifierGenerator::IdLookLike
+LL_l1	IdentifierGenerator.h	/^	enum IdLookLike { LL_NORMAL, LL_O0, LL_l1, LL_CUSTOM } idLookLike;$/;"	e	enum:IdentifierGenerator::IdLookLike
+LOCAL	Symbol.h	/^	enum SymbolScope { GLOBAL, LOCAL } scope;$/;"	e	enum:Symbol::SymbolScope
+LONG	CParser.cc	/^const int YY_CParser_CLASS::LONG=294;$/;"	m	class:YY_CParser_CLASS	file:
+LONG	CParser.cc	/^static const int LONG;$/;"	m	class:YY_CParser_INHERIT	file:
+LONG	CParser.cc	366;"	d	file:
+LONG	CParser.h	/^static const int LONG;$/;"	m	class:YY_CParser_INHERIT
+LONG	CParser.h	266;"	d
+MOD_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::MOD_ASSIGN=275;$/;"	m	class:YY_CParser_CLASS	file:
+MOD_ASSIGN	CParser.cc	/^static const int MOD_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+MOD_ASSIGN	CParser.cc	347;"	d	file:
+MOD_ASSIGN	CParser.h	/^static const int MOD_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+MOD_ASSIGN	CParser.h	247;"	d
+MUL_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::MUL_ASSIGN=273;$/;"	m	class:YY_CParser_CLASS	file:
+MUL_ASSIGN	CParser.cc	/^static const int MUL_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+MUL_ASSIGN	CParser.cc	345;"	d	file:
+MUL_ASSIGN	CParser.h	/^static const int MUL_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+MUL_ASSIGN	CParser.h	245;"	d
+NE_OP	CParser.cc	/^const int YY_CParser_CLASS::NE_OP=270;$/;"	m	class:YY_CParser_CLASS	file:
+NE_OP	CParser.cc	/^static const int NE_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+NE_OP	CParser.cc	342;"	d	file:
+NE_OP	CParser.h	/^static const int NE_OP;$/;"	m	class:YY_CParser_INHERIT
+NE_OP	CParser.h	242;"	d
+NODE	Node.h	/^	enum NodeType { TOKEN, NODE } nodeType;$/;"	e	enum:Node::NodeType
+Node	Node.cpp	/^Node::Node(TokenLocation l) : isObfuscated(false)$/;"	f	class:Node
+Node	Node.cpp	/^Node::Node(string typeName,int num,...) : isObfuscated(false)$/;"	f	class:Node
+Node	Node.cpp	/^Node::Node(void)$/;"	f	class:Node
+Node	Node.h	/^class Node$/;"	c
+NodeType	Node.h	/^	enum NodeType { TOKEN, NODE } nodeType;$/;"	g	class:Node
+NotObfusIdTable	NotObfusIdTable.cpp	/^NotObfusIdTable::NotObfusIdTable(void)$/;"	f	class:NotObfusIdTable
+NotObfusIdTable	NotObfusIdTable.h	/^class NotObfusIdTable$/;"	c
+NumberExpGenerator	NumberExpGenerator.cpp	/^NumberExpGenerator::NumberExpGenerator(void)$/;"	f	class:NumberExpGenerator
+NumberExpGenerator	NumberExpGenerator.h	/^class NumberExpGenerator$/;"	c
+ONBlockItemList	ONBlockItemList.cpp	/^ONBlockItemList::ONBlockItemList(bool isRemoveTypeset, bool isObfuscateConstant):$/;"	f	class:ONBlockItemList
+ONBlockItemList	ONBlockItemList.h	/^class ONBlockItemList :$/;"	c
+ONConstant	ONConstant.cpp	/^ONConstant::ONConstant(void)$/;"	f	class:ONConstant
+ONConstant	ONConstant.h	/^class ONConstant :$/;"	c
+ONDoWhile	ONDoWhile.cpp	/^ONDoWhile::ONDoWhile(bool isRemoveTypeset) :$/;"	f	class:ONDoWhile
+ONDoWhile	ONDoWhile.h	/^class ONDoWhile :$/;"	c
+ONFor	ONFor.cpp	/^ONFor::ONFor(bool isRemoveTypeset) :$/;"	f	class:ONFor
+ONFor	ONFor.h	/^class ONFor :$/;"	c
+ONIdentifier	ONIdentifier.cpp	/^ONIdentifier::ONIdentifier(void)$/;"	f	class:ONIdentifier
+ONIdentifier	ONIdentifier.h	/^class ONIdentifier :$/;"	c
+ONString	ONString.cpp	/^ONString::ONString(void)$/;"	f	class:ONString
+ONString	ONString.h	/^class ONString :$/;"	c
+ONWhile	ONWhile.cpp	/^ONWhile::ONWhile(bool isRemoveTypeset) :$/;"	f	class:ONWhile
+ONWhile	ONWhile.h	/^class ONWhile :$/;"	c
+OR_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::OR_ASSIGN=282;$/;"	m	class:YY_CParser_CLASS	file:
+OR_ASSIGN	CParser.cc	/^static const int OR_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+OR_ASSIGN	CParser.cc	354;"	d	file:
+OR_ASSIGN	CParser.h	/^static const int OR_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+OR_ASSIGN	CParser.h	254;"	d
+OR_OP	CParser.cc	/^const int YY_CParser_CLASS::OR_OP=272;$/;"	m	class:YY_CParser_CLASS	file:
+OR_OP	CParser.cc	/^static const int OR_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+OR_OP	CParser.cc	344;"	d	file:
+OR_OP	CParser.h	/^static const int OR_OP;$/;"	m	class:YY_CParser_INHERIT
+OR_OP	CParser.h	244;"	d
+Obfuscate	Obfuscator.cpp	/^void Obfuscator::Obfuscate()$/;"	f	class:Obfuscator
+ObfuscateNode	Obfuscator.cpp	/^void Obfuscator::ObfuscateNode(Node *node)$/;"	f	class:Obfuscator
+Obfuscator	Obfuscator.cpp	/^Obfuscator::Obfuscator(CodeFile &file,NotObfusIdTable *t)$/;"	f	class:Obfuscator
+Obfuscator	Obfuscator.h	/^class Obfuscator$/;"	c
+OnlyLexer	CAnalys.cc	/^void CAnalys::OnlyLexer()$/;"	f	class:CAnalys
+Output	CodeFile.cpp	/^string CodeFile::Output()$/;"	f	class:CodeFile
+PREPROCESS	ExtraString.h	/^	enum ElementType { TYPESET, COMMENT, PREPROCESS } elmentType;$/;"	e	enum:ExtraString::ElementType
+PTR_OP	CParser.cc	/^const int YY_CParser_CLASS::PTR_OP=262;$/;"	m	class:YY_CParser_CLASS	file:
+PTR_OP	CParser.cc	/^static const int PTR_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+PTR_OP	CParser.cc	334;"	d	file:
+PTR_OP	CParser.h	/^static const int PTR_OP;$/;"	m	class:YY_CParser_INHERIT
+PTR_OP	CParser.h	234;"	d
+ParsedDeclaration	CAnalys.cc	/^void CAnalys::ParsedDeclaration(Node * node)$/;"	f	class:CAnalys
+ParsedFunctionDefinition	CAnalys.cc	/^void CAnalys::ParsedFunctionDefinition(Node *functionNode, Node *declaratorNode)$/;"	f	class:CAnalys
+PreProcessElement	ExtraString.h	/^	PreProcessElement(string t)  {type = ExtraString::PREPROCESS; content= t;};$/;"	f	class:PreProcessElement
+PreProcessElement	ExtraString.h	/^class PreProcessElement : public IExtraStringElement$/;"	c
+PrintError	CAnalys.cc	/^void CAnalys::PrintError(char *s )$/;"	f	class:CAnalys
+PrintObfuscRecordTable	Obfuscator.h	/^	string PrintObfuscRecordTable(bool needLocation)$/;"	f	class:Obfuscator
+PrintRecordTable	RecordTable.cpp	/^string RecordTable::PrintRecordTable(bool hasLocation)$/;"	f	class:RecordTable
+PrintSymbolTable	SymbolTable.cpp	/^string SymbolTable::PrintSymbolTable()$/;"	f	class:SymbolTable
+REGISTER	CParser.cc	/^const int YY_CParser_CLASS::REGISTER=288;$/;"	m	class:YY_CParser_CLASS	file:
+REGISTER	CParser.cc	/^static const int REGISTER;$/;"	m	class:YY_CParser_INHERIT	file:
+REGISTER	CParser.cc	360;"	d	file:
+REGISTER	CParser.h	/^static const int REGISTER;$/;"	m	class:YY_CParser_INHERIT
+REGISTER	CParser.h	260;"	d
+REJECT	CLexer.cc	712;"	d	file:
+RESTRICT	CParser.cc	/^const int YY_CParser_CLASS::RESTRICT=290;$/;"	m	class:YY_CParser_CLASS	file:
+RESTRICT	CParser.cc	/^static const int RESTRICT;$/;"	m	class:YY_CParser_INHERIT	file:
+RESTRICT	CParser.cc	362;"	d	file:
+RESTRICT	CParser.h	/^static const int RESTRICT;$/;"	m	class:YY_CParser_INHERIT
+RESTRICT	CParser.h	262;"	d
+RETURN	CParser.cc	/^const int YY_CParser_CLASS::RETURN=320;$/;"	m	class:YY_CParser_CLASS	file:
+RETURN	CParser.cc	/^static const int RETURN;$/;"	m	class:YY_CParser_INHERIT	file:
+RETURN	CParser.cc	392;"	d	file:
+RETURN	CParser.h	/^static const int RETURN;$/;"	m	class:YY_CParser_INHERIT
+RETURN	CParser.h	292;"	d
+RIGHT_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::RIGHT_ASSIGN=279;$/;"	m	class:YY_CParser_CLASS	file:
+RIGHT_ASSIGN	CParser.cc	/^static const int RIGHT_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+RIGHT_ASSIGN	CParser.cc	351;"	d	file:
+RIGHT_ASSIGN	CParser.h	/^static const int RIGHT_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+RIGHT_ASSIGN	CParser.h	251;"	d
+RIGHT_OP	CParser.cc	/^const int YY_CParser_CLASS::RIGHT_OP=266;$/;"	m	class:YY_CParser_CLASS	file:
+RIGHT_OP	CParser.cc	/^static const int RIGHT_OP;$/;"	m	class:YY_CParser_INHERIT	file:
+RIGHT_OP	CParser.cc	338;"	d	file:
+RIGHT_OP	CParser.h	/^static const int RIGHT_OP;$/;"	m	class:YY_CParser_INHERIT
+RIGHT_OP	CParser.h	238;"	d
+Record	RecordTable.h	/^	Record(string name, string afterName,$/;"	f	class:Record
+Record	RecordTable.h	/^class Record$/;"	c
+RecordTable	RecordTable.cpp	/^RecordTable::RecordTable(void)$/;"	f	class:RecordTable
+RecordTable	RecordTable.h	/^class RecordTable$/;"	c
+Register	Obfuscator.cpp	/^void Obfuscator::Register(IObfusNode *on)$/;"	f	class:Obfuscator
+SHORT	CParser.cc	/^const int YY_CParser_CLASS::SHORT=292;$/;"	m	class:YY_CParser_CLASS	file:
+SHORT	CParser.cc	/^static const int SHORT;$/;"	m	class:YY_CParser_INHERIT	file:
+SHORT	CParser.cc	364;"	d	file:
+SHORT	CParser.h	/^static const int SHORT;$/;"	m	class:YY_CParser_INHERIT
+SHORT	CParser.h	264;"	d
+SIGNED	CParser.cc	/^const int YY_CParser_CLASS::SIGNED=295;$/;"	m	class:YY_CParser_CLASS	file:
+SIGNED	CParser.cc	/^static const int SIGNED;$/;"	m	class:YY_CParser_INHERIT	file:
+SIGNED	CParser.cc	367;"	d	file:
+SIGNED	CParser.h	/^static const int SIGNED;$/;"	m	class:YY_CParser_INHERIT
+SIGNED	CParser.h	267;"	d
+SIZEOF	CParser.cc	/^const int YY_CParser_CLASS::SIZEOF=261;$/;"	m	class:YY_CParser_CLASS	file:
+SIZEOF	CParser.cc	/^static const int SIZEOF;$/;"	m	class:YY_CParser_INHERIT	file:
+SIZEOF	CParser.cc	333;"	d	file:
+SIZEOF	CParser.h	/^static const int SIZEOF;$/;"	m	class:YY_CParser_INHERIT
+SIZEOF	CParser.h	233;"	d
+STATIC	CParser.cc	/^const int YY_CParser_CLASS::STATIC=286;$/;"	m	class:YY_CParser_CLASS	file:
+STATIC	CParser.cc	/^static const int STATIC;$/;"	m	class:YY_CParser_INHERIT	file:
+STATIC	CParser.cc	358;"	d	file:
+STATIC	CParser.h	/^static const int STATIC;$/;"	m	class:YY_CParser_INHERIT
+STATIC	CParser.h	258;"	d
+STRING_LITERAL	CParser.cc	/^const int YY_CParser_CLASS::STRING_LITERAL=260;$/;"	m	class:YY_CParser_CLASS	file:
+STRING_LITERAL	CParser.cc	/^static const int STRING_LITERAL;$/;"	m	class:YY_CParser_INHERIT	file:
+STRING_LITERAL	CParser.cc	332;"	d	file:
+STRING_LITERAL	CParser.h	/^static const int STRING_LITERAL;$/;"	m	class:YY_CParser_INHERIT
+STRING_LITERAL	CParser.h	232;"	d
+STRUCT	CParser.cc	/^const int YY_CParser_CLASS::STRUCT=305;$/;"	m	class:YY_CParser_CLASS	file:
+STRUCT	CParser.cc	/^static const int STRUCT;$/;"	m	class:YY_CParser_INHERIT	file:
+STRUCT	CParser.cc	377;"	d	file:
+STRUCT	CParser.h	/^static const int STRUCT;$/;"	m	class:YY_CParser_INHERIT
+STRUCT	CParser.h	277;"	d
+SUB_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::SUB_ASSIGN=277;$/;"	m	class:YY_CParser_CLASS	file:
+SUB_ASSIGN	CParser.cc	/^static const int SUB_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+SUB_ASSIGN	CParser.cc	349;"	d	file:
+SUB_ASSIGN	CParser.h	/^static const int SUB_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+SUB_ASSIGN	CParser.h	249;"	d
+SWITCH	CParser.cc	/^const int YY_CParser_CLASS::SWITCH=313;$/;"	m	class:YY_CParser_CLASS	file:
+SWITCH	CParser.cc	/^static const int SWITCH;$/;"	m	class:YY_CParser_INHERIT	file:
+SWITCH	CParser.cc	385;"	d	file:
+SWITCH	CParser.h	/^static const int SWITCH;$/;"	m	class:YY_CParser_INHERIT
+SWITCH	CParser.h	285;"	d
+Scan	CAnalys.cc	/^int CAnalys::Scan()$/;"	f	class:CAnalys
+ScanedIdentifier	SymbolTable.cpp	/^void SymbolTable::ScanedIdentifier(int t, TokenLocation l)$/;"	f	class:SymbolTable
+SetColumnLine4Input	CLexer.cc	/^void CLexer::SetColumnLine4Input(char c)$/;"	f	class:CLexer
+SetDebug	CAnalys.cc	/^void CAnalys::SetDebug(int d) $/;"	f	class:CAnalys
+SetIdentifierDeclared	SymbolTable.cpp	/^void SymbolTable::SetIdentifierDeclared(string name)$/;"	f	class:SymbolTable
+SetSymbolNum	IdentifierGenerator.cpp	/^void IdentifierGenerator::SetSymbolNum(int num)$/;"	f	class:IdentifierGenerator
+Symbol	Symbol.cpp	/^Symbol::Symbol(string name) :$/;"	f	class:Symbol
+Symbol	Symbol.cpp	/^Symbol::Symbol(string name, SymbolType type) :$/;"	f	class:Symbol
+Symbol	Symbol.cpp	/^Symbol::Symbol(void)$/;"	f	class:Symbol
+Symbol	Symbol.h	/^class Symbol$/;"	c
+SymbolLocation	TokenTypes.h	/^} SymbolLocation;/;"	t	typeref:struct:__anon4
+SymbolScope	Symbol.h	/^	enum SymbolScope { GLOBAL, LOCAL } scope;$/;"	g	class:Symbol
+SymbolTable	SymbolTable.cpp	/^SymbolTable::SymbolTable(void)$/;"	f	class:SymbolTable
+SymbolTable	SymbolTable.h	/^class SymbolTable$/;"	c
+SymbolType	Symbol.h	/^	enum SymbolType { IDENTIFIER, VAR, FUNC, TYPE_NAME } type;$/;"	g	class:Symbol
+TAB_COLUMN	CAnalys.h	12;"	d
+TAB_COLUMN	CLexer.h	64;"	d
+TOKEN	Node.h	/^	enum NodeType { TOKEN, NODE } nodeType;$/;"	e	enum:Node::NodeType
+TYPEDEF	CParser.cc	/^const int YY_CParser_CLASS::TYPEDEF=284;$/;"	m	class:YY_CParser_CLASS	file:
+TYPEDEF	CParser.cc	/^static const int TYPEDEF;$/;"	m	class:YY_CParser_INHERIT	file:
+TYPEDEF	CParser.cc	356;"	d	file:
+TYPEDEF	CParser.h	/^static const int TYPEDEF;$/;"	m	class:YY_CParser_INHERIT
+TYPEDEF	CParser.h	256;"	d
+TYPESET	ExtraString.h	/^	enum ElementType { TYPESET, COMMENT, PREPROCESS } elmentType;$/;"	e	enum:ExtraString::ElementType
+TYPE_NAME	CParser.cc	/^const int YY_CParser_CLASS::TYPE_NAME=283;$/;"	m	class:YY_CParser_CLASS	file:
+TYPE_NAME	CParser.cc	/^static const int TYPE_NAME;$/;"	m	class:YY_CParser_INHERIT	file:
+TYPE_NAME	CParser.cc	355;"	d	file:
+TYPE_NAME	CParser.h	/^static const int TYPE_NAME;$/;"	m	class:YY_CParser_INHERIT
+TYPE_NAME	CParser.h	255;"	d
+TYPE_NAME	Symbol.h	/^	enum SymbolType { IDENTIFIER, VAR, FUNC, TYPE_NAME } type;$/;"	e	enum:Symbol::SymbolType
+ToCode	Node.cpp	/^string Node::ToCode()$/;"	f	class:Node
+ToCodeTree	Node.cpp	/^string Node::ToCodeTree()$/;"	f	class:Node
+ToCodeTreeCall	Node.cpp	/^string Node::ToCodeTreeCall(int level)$/;"	f	class:Node
+ToSourceCode	Node.cpp	/^string Node::ToSourceCode(bool isRemoveTypeset)$/;"	f	class:Node
+TokenLocation	TokenTypes.h	/^} TokenLocation;$/;"	t	typeref:struct:__anon3
+TokenValue	CParser.cc	/^typedef YY_CParser_STYPE TokenValue;$/;"	t	file:
+TokenValue	CParser.h	/^typedef YY_CParser_STYPE TokenValue;$/;"	t
+Traversal	Obfuscator.cpp	/^void Obfuscator::Traversal(Node *node)$/;"	f	class:Obfuscator
+TraversalAllNode	Node.cpp	/^void Node::TraversalAllNode(list<Node *> &l)$/;"	f	class:Node
+Tree	Tree.cpp	/^Tree::Tree(void)$/;"	f	class:Tree
+Tree	Tree.h	/^class Tree : public Node$/;"	c
+TypesetElement	ExtraString.h	/^	TypesetElement(string t)  {type = ExtraString::TYPESET; content= t;};$/;"	f	class:TypesetElement
+TypesetElement	ExtraString.h	/^class TypesetElement : public IExtraStringElement$/;"	c
+UNION	CParser.cc	/^const int YY_CParser_CLASS::UNION=306;$/;"	m	class:YY_CParser_CLASS	file:
+UNION	CParser.cc	/^static const int UNION;$/;"	m	class:YY_CParser_INHERIT	file:
+UNION	CParser.cc	378;"	d	file:
+UNION	CParser.h	/^static const int UNION;$/;"	m	class:YY_CParser_INHERIT
+UNION	CParser.h	278;"	d
+UNSIGNED	CParser.cc	/^const int YY_CParser_CLASS::UNSIGNED=296;$/;"	m	class:YY_CParser_CLASS	file:
+UNSIGNED	CParser.cc	/^static const int UNSIGNED;$/;"	m	class:YY_CParser_INHERIT	file:
+UNSIGNED	CParser.cc	368;"	d	file:
+UNSIGNED	CParser.h	/^static const int UNSIGNED;$/;"	m	class:YY_CParser_INHERIT
+UNSIGNED	CParser.h	268;"	d
+VAR	Symbol.h	/^	enum SymbolType { IDENTIFIER, VAR, FUNC, TYPE_NAME } type;$/;"	e	enum:Symbol::SymbolType
+VOID	CParser.cc	/^const int YY_CParser_CLASS::VOID=301;$/;"	m	class:YY_CParser_CLASS	file:
+VOID	CParser.cc	/^static const int VOID;$/;"	m	class:YY_CParser_INHERIT	file:
+VOID	CParser.cc	373;"	d	file:
+VOID	CParser.h	/^static const int VOID;$/;"	m	class:YY_CParser_INHERIT
+VOID	CParser.h	273;"	d
+VOLATILE	CParser.cc	/^const int YY_CParser_CLASS::VOLATILE=300;$/;"	m	class:YY_CParser_CLASS	file:
+VOLATILE	CParser.cc	/^static const int VOLATILE;$/;"	m	class:YY_CParser_INHERIT	file:
+VOLATILE	CParser.cc	372;"	d	file:
+VOLATILE	CParser.h	/^static const int VOLATILE;$/;"	m	class:YY_CParser_INHERIT
+VOLATILE	CParser.h	272;"	d
+WHILE	CParser.cc	/^const int YY_CParser_CLASS::WHILE=314;$/;"	m	class:YY_CParser_CLASS	file:
+WHILE	CParser.cc	/^static const int WHILE;$/;"	m	class:YY_CParser_INHERIT	file:
+WHILE	CParser.cc	386;"	d	file:
+WHILE	CParser.h	/^static const int WHILE;$/;"	m	class:YY_CParser_INHERIT
+WHILE	CParser.h	286;"	d
+XOR_ASSIGN	CParser.cc	/^const int YY_CParser_CLASS::XOR_ASSIGN=281;$/;"	m	class:YY_CParser_CLASS	file:
+XOR_ASSIGN	CParser.cc	/^static const int XOR_ASSIGN;$/;"	m	class:YY_CParser_INHERIT	file:
+XOR_ASSIGN	CParser.cc	353;"	d	file:
+XOR_ASSIGN	CParser.h	/^static const int XOR_ASSIGN;$/;"	m	class:YY_CParser_INHERIT
+XOR_ASSIGN	CParser.h	253;"	d
+YYABORT	CParser.cc	1484;"	d	file:
+YYACCEPT	CParser.cc	1483;"	d	file:
+YYBACKUP	CParser.cc	1492;"	d	file:
+YYBEGINDECLARELABEL	CParser.cc	1423;"	d	file:
+YYBEGINDECLARELABEL	CParser.cc	1432;"	d	file:
+YYBEGINGOTO	CParser.cc	1419;"	d	file:
+YYBEGINGOTO	CParser.cc	1429;"	d	file:
+YYBISON	CParser.cc	82;"	d	file:
+YYDEBUG	CParser.cc	311;"	d	file:
+YYDEBUG	CParser.h	521;"	d
+YYDECLARELABEL	CParser.cc	1424;"	d	file:
+YYDECLARELABEL	CParser.cc	1433;"	d	file:
+YYEMPTY	CParser.cc	1481;"	d	file:
+YYENDDECLARELABEL	CParser.cc	1425;"	d	file:
+YYENDDECLARELABEL	CParser.cc	1434;"	d	file:
+YYENDGOTO	CParser.cc	1422;"	d	file:
+YYENDGOTO	CParser.cc	1431;"	d	file:
+YYEOF	CParser.cc	1482;"	d	file:
+YYERRCODE	CParser.cc	1505;"	d	file:
+YYERROR	CParser.cc	1485;"	d	file:
+YYFAIL	CParser.cc	1490;"	d	file:
+YYFINAL	CParser.cc	697;"	d	file:
+YYFLAG	CParser.cc	698;"	d	file:
+YYGOTO	CParser.cc	1418;"	d	file:
+YYGOTO	CParser.cc	1428;"	d	file:
+YYINITDEPTH	CParser.cc	1544;"	d	file:
+YYLABEL	CParser.cc	1421;"	d	file:
+YYLABEL	CParser.cc	1430;"	d	file:
+YYLAST	CParser.cc	1070;"	d	file:
+YYLEX	CParser.cc	1509;"	d	file:
+YYLEX	CParser.cc	1526;"	d	file:
+YYLEX	CParser.cc	1528;"	d	file:
+YYLSP_CParser_NEEDED	CParser.cc	216;"	d	file:
+YYLTYPE	CParser.cc	294;"	d	file:
+YYLTYPE	CParser.h	517;"	d
+YYMAXDEPTH	CParser.cc	1551;"	d	file:
+YYMAXDEPTH	CParser.cc	1555;"	d	file:
+YYNTBASE	CParser.cc	699;"	d	file:
+YYPOPSTACK	CParser.cc	1620;"	d	file:
+YYPURE	CParser.cc	306;"	d	file:
+YYRECOVERING	CParser.cc	1491;"	d	file:
+YYSTYPE	CParser.cc	300;"	d	file:
+YYSTYPE	CParser.h	513;"	d
+YYTERROR	CParser.cc	1504;"	d	file:
+YYTRANSLATE	CParser.cc	701;"	d	file:
+YY_BREAK	CLexer.cc	109;"	d	file:
+YY_BUFFER_STATE	CLexer.h	/^typedef struct yy_buffer_state *YY_BUFFER_STATE;$/;"	t	typeref:struct:yy_buffer_state
+YY_BUF_SIZE	CLexer.cc	94;"	d	file:
+YY_CHAR	CLexer.cc	1;"	d	file:
+YY_CLexer_CHAR	CLexer.h	3;"	d
+YY_CLexer_CONSTRUCTOR_CODE	CLexer.h	93;"	d
+YY_CLexer_CONSTRUCTOR_INIT	CLexer.h	91;"	d
+YY_CLexer_CONSTRUCTOR_PARAM	CLexer.h	89;"	d
+YY_CLexer_CREATE_BUFFER	CLexer.cc	/^YY_BUFFER_STATE YY_CLexer_CREATE_BUFFER( YY_CLexer_IFILE  *file, int size )$/;"	f
+YY_CLexer_CREATE_BUFFER	CLexer.h	202;"	d
+YY_CLexer_CURRENT_BUFFER	CLexer.cc	/^static YY_BUFFER_STATE YY_CLexer_CURRENT_BUFFER;$/;"	v	file:
+YY_CLexer_CURRENT_BUFFER	CLexer.h	242;"	d
+YY_CLexer_DEBUG	CLexer.h	220;"	d
+YY_CLexer_DEBUG	CLexer.h	224;"	d
+YY_CLexer_DEBUG_FLAG	CLexer.cc	/^int YY_CLexer_DEBUG_FLAG=YY_CLexer_DEBUG_INIT;$/;"	v
+YY_CLexer_DEBUG_FLAG	CLexer.h	230;"	d
+YY_CLexer_DEBUG_INIT	CLexer.h	233;"	d
+YY_CLexer_DELETE_BUFFER	CLexer.cc	/^void YY_CLexer_DELETE_BUFFER( YY_BUFFER_STATE b )$/;"	f
+YY_CLexer_DELETE_BUFFER	CLexer.h	210;"	d
+YY_CLexer_ERRFILE	CLexer.h	106;"	d
+YY_CLexer_ERRFILE	CLexer.h	128;"	d
+YY_CLexer_FLEX_SCANNER	CLexer.cc	200;"	d	file:
+YY_CLexer_IFILE	CLexer.h	104;"	d
+YY_CLexer_IFILE	CLexer.h	120;"	d
+YY_CLexer_IFILE_DEFAULT	CLexer.h	109;"	d
+YY_CLexer_IFILE_DEFAULT	CLexer.h	132;"	d
+YY_CLexer_IN	CLexer.h	149;"	d
+YY_CLexer_INHERIT	CLexer.h	67;"	d
+YY_CLexer_INIT_BUFFER	CLexer.cc	/^void YY_CLexer_INIT_BUFFER( YY_BUFFER_STATE b, YY_CLexer_IFILE  *file )$/;"	f
+YY_CLexer_INIT_BUFFER	CLexer.h	213;"	d
+YY_CLexer_LENG	CLexer.h	146;"	d
+YY_CLexer_LENG	CLexer.h	97;"	d
+YY_CLexer_LEX	CLexer.h	164;"	d
+YY_CLexer_LEX	CLexer.h	71;"	d
+YY_CLexer_LEX_DEFINED	CLexer.h	159;"	d
+YY_CLexer_LEX_DEFINED	CLexer.h	167;"	d
+YY_CLexer_LEX_DEFINED	CLexer.h	179;"	d
+YY_CLexer_LEX_DEFINED	CLexer.h	187;"	d
+YY_CLexer_LEX_PARAM	CLexer.h	173;"	d
+YY_CLexer_LEX_PARAM	CLexer.h	175;"	d
+YY_CLexer_LEX_PARAM	CLexer.h	73;"	d
+YY_CLexer_LEX_PARAM_DEF	CLexer.h	184;"	d
+YY_CLexer_LEX_RETURN	CLexer.h	156;"	d
+YY_CLexer_LEX_RETURN	CLexer.h	69;"	d
+YY_CLexer_LOAD_BUFFER_STATE	CLexer.cc	/^void YY_CLexer_LOAD_BUFFER_STATE( void )$/;"	f
+YY_CLexer_LOAD_BUFFER_STATE	CLexer.h	198;"	d
+YY_CLexer_MEMBERS	CLexer.h	75;"	d
+YY_CLexer_OFILE	CLexer.h	105;"	d
+YY_CLexer_OFILE	CLexer.h	124;"	d
+YY_CLexer_OFILE_DEFAULT	CLexer.h	113;"	d
+YY_CLexer_OFILE_DEFAULT	CLexer.h	136;"	d
+YY_CLexer_OUT	CLexer.h	152;"	d
+YY_CLexer_RESTART	CLexer.cc	/^void YY_CLexer_RESTART( YY_CLexer_IFILE  *input_file )$/;"	f
+YY_CLexer_RESTART	CLexer.h	192;"	d
+YY_CLexer_SWITCH_TO_BUFFER	CLexer.cc	/^void YY_CLexer_SWITCH_TO_BUFFER( YY_BUFFER_STATE new_buffer )$/;"	f
+YY_CLexer_SWITCH_TO_BUFFER	CLexer.h	195;"	d
+YY_CLexer_TEXT	CLexer.h	143;"	d
+YY_CLexer_TEXT	CLexer.h	95;"	d
+YY_CParser_BISON	CParser.cc	144;"	d	file:
+YY_CParser_CHAR	CParser.cc	/^ int    YY_CParser_CHAR;$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_CHAR	CParser.cc	/^int     YY_CParser_CHAR;                      \/*  the lookahead symbol        *\/$/;"	v
+YY_CParser_CHAR	CParser.cc	264;"	d	file:
+YY_CParser_CHAR	CParser.h	/^ int YY_CParser_CHAR;$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_CHAR	CParser.h	192;"	d
+YY_CParser_CLASS	CParser.cc	400;"	d	file:
+YY_CParser_CLASS	CParser.h	300;"	d
+YY_CParser_COMPATIBILITY	CParser.cc	147;"	d	file:
+YY_CParser_COMPATIBILITY	CParser.cc	149;"	d	file:
+YY_CParser_COMPATIBILITY	CParser.h	81;"	d
+YY_CParser_COMPATIBILITY	CParser.h	83;"	d
+YY_CParser_CONSTRUCTOR_CODE	CParser.cc	138;"	d	file:
+YY_CParser_CONSTRUCTOR_CODE	CParser.cc	418;"	d	file:
+YY_CParser_CONSTRUCTOR_CODE	CParser.h	73;"	d
+YY_CParser_CONSTRUCTOR_INIT	CParser.cc	137;"	d	file:
+YY_CParser_CONSTRUCTOR_INIT	CParser.cc	421;"	d	file:
+YY_CParser_CONSTRUCTOR_INIT	CParser.h	72;"	d
+YY_CParser_CONSTRUCTOR_PARAM	CParser.cc	136;"	d	file:
+YY_CParser_CONSTRUCTOR_PARAM	CParser.cc	415;"	d	file:
+YY_CParser_CONSTRUCTOR_PARAM	CParser.h	316;"	d
+YY_CParser_CONSTRUCTOR_PARAM	CParser.h	71;"	d
+YY_CParser_DEBUG	CParser.cc	120;"	d	file:
+YY_CParser_DEBUG	CParser.cc	167;"	d	file:
+YY_CParser_DEBUG	CParser.h	105;"	d
+YY_CParser_DEBUG	CParser.h	55;"	d
+YY_CParser_DEBUG_FLAG	CParser.cc	/^ int YY_CParser_DEBUG_FLAG;   \/*  nonzero means print parse trace     *\/$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_DEBUG_FLAG	CParser.cc	/^int YY_CParser_DEBUG_FLAG;                    \/*  nonzero means print parse trace     *\/$/;"	v
+YY_CParser_DEBUG_FLAG	CParser.cc	124;"	d	file:
+YY_CParser_DEBUG_FLAG	CParser.cc	270;"	d	file:
+YY_CParser_DEBUG_FLAG	CParser.h	/^ int YY_CParser_DEBUG_FLAG;	\/*  nonzero means print parse trace	*\/$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_DEBUG_FLAG	CParser.h	198;"	d
+YY_CParser_DEBUG_FLAG	CParser.h	59;"	d
+YY_CParser_ENUM_TOKEN	CParser.cc	140;"	d	file:
+YY_CParser_ENUM_TOKEN	CParser.cc	431;"	d	file:
+YY_CParser_ENUM_TOKEN	CParser.h	326;"	d
+YY_CParser_ENUM_TOKEN	CParser.h	75;"	d
+YY_CParser_ERROR	CParser.cc	123;"	d	file:
+YY_CParser_ERROR	CParser.cc	273;"	d	file:
+YY_CParser_ERROR	CParser.h	201;"	d
+YY_CParser_ERROR	CParser.h	58;"	d
+YY_CParser_ERROR_BODY	CParser.cc	/^ virtual void YY_CParser_ERROR(char *msg) YY_CParser_ERROR_BODY;$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_ERROR_BODY	CParser.cc	122;"	d	file:
+YY_CParser_ERROR_BODY	CParser.cc	412;"	d	file:
+YY_CParser_ERROR_BODY	CParser.h	/^ virtual void YY_CParser_ERROR(char *msg) YY_CParser_ERROR_BODY;$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_ERROR_BODY	CParser.h	313;"	d
+YY_CParser_ERROR_BODY	CParser.h	57;"	d
+YY_CParser_ERROR_VERBOSE	CParser.cc	316;"	d	file:
+YY_CParser_INHERIT	CParser.cc	/^class YY_CParser_CLASS YY_CParser_INHERIT$/;"	c	file:
+YY_CParser_INHERIT	CParser.cc	403;"	d	file:
+YY_CParser_INHERIT	CParser.h	/^class YY_CParser_CLASS YY_CParser_INHERIT$/;"	c
+YY_CParser_INHERIT	CParser.h	304;"	d
+YY_CParser_LEX	CParser.cc	125;"	d	file:
+YY_CParser_LEX	CParser.cc	255;"	d	file:
+YY_CParser_LEX	CParser.h	183;"	d
+YY_CParser_LEX	CParser.h	60;"	d
+YY_CParser_LEX_BODY	CParser.cc	/^ virtual int  YY_CParser_LEX (YY_CParser_STYPE *YY_CParser_LVAL) YY_CParser_LEX_BODY;$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_LEX_BODY	CParser.cc	/^ virtual int  YY_CParser_LEX (YY_CParser_STYPE *YY_CParser_LVAL,YY_CParser_LTYPE *YY_CParser_LLOC) YY_CParser_LEX_BODY;$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_LEX_BODY	CParser.cc	/^ virtual int YY_CParser_LEX() YY_CParser_LEX_BODY;$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_LEX_BODY	CParser.cc	121;"	d	file:
+YY_CParser_LEX_BODY	CParser.cc	409;"	d	file:
+YY_CParser_LEX_BODY	CParser.h	/^ virtual int  YY_CParser_LEX(YY_CParser_STYPE *YY_CParser_LVAL) YY_CParser_LEX_BODY;$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_LEX_BODY	CParser.h	/^ virtual int  YY_CParser_LEX(YY_CParser_STYPE *YY_CParser_LVAL,YY_CParser_LTYPE *YY_CParser_LLOC) YY_CParser_LEX_BODY;$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_LEX_BODY	CParser.h	/^ virtual int YY_CParser_LEX() YY_CParser_LEX_BODY;$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_LEX_BODY	CParser.h	310;"	d
+YY_CParser_LEX_BODY	CParser.h	56;"	d
+YY_CParser_LLOC	CParser.cc	/^ YY_CParser_LTYPE YY_CParser_LLOC;$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_LLOC	CParser.cc	/^YY_CParser_LTYPE YY_CParser_LLOC;   \/*  location data for the lookahead     *\/$/;"	v
+YY_CParser_LLOC	CParser.cc	118;"	d	file:
+YY_CParser_LLOC	CParser.cc	261;"	d	file:
+YY_CParser_LLOC	CParser.h	/^ YY_CParser_LTYPE YY_CParser_LLOC;$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_LLOC	CParser.h	189;"	d
+YY_CParser_LLOC	CParser.h	53;"	d
+YY_CParser_LSP_NEEDED	CParser.cc	116;"	d	file:
+YY_CParser_LSP_NEEDED	CParser.cc	321;"	d	file:
+YY_CParser_LSP_NEEDED	CParser.h	51;"	d
+YY_CParser_LTYPE	CParser.cc	117;"	d	file:
+YY_CParser_LTYPE	CParser.cc	157;"	d	file:
+YY_CParser_LTYPE	CParser.cc	239;"	d	file:
+YY_CParser_LTYPE	CParser.h	171;"	d
+YY_CParser_LTYPE	CParser.h	52;"	d
+YY_CParser_LTYPE	CParser.h	91;"	d
+YY_CParser_LVAL	CParser.cc	/^ YY_CParser_STYPE YY_CParser_LVAL;$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_LVAL	CParser.cc	/^YY_CParser_STYPE      YY_CParser_LVAL;              \/*  the semantic value of the *\/$/;"	v
+YY_CParser_LVAL	CParser.cc	119;"	d	file:
+YY_CParser_LVAL	CParser.cc	258;"	d	file:
+YY_CParser_LVAL	CParser.h	/^ YY_CParser_STYPE YY_CParser_LVAL;$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_LVAL	CParser.h	186;"	d
+YY_CParser_LVAL	CParser.h	54;"	d
+YY_CParser_MEMBERS	CParser.cc	128;"	d	file:
+YY_CParser_MEMBERS	CParser.cc	406;"	d	file:
+YY_CParser_MEMBERS	CParser.h	307;"	d
+YY_CParser_MEMBERS	CParser.h	63;"	d
+YY_CParser_NERRS	CParser.cc	/^ int   YY_CParser_NERRS;$/;"	m	class:YY_CParser_INHERIT	file:
+YY_CParser_NERRS	CParser.cc	/^int YY_CParser_NERRS;                 \/*  number of parse errors so far *\/$/;"	v
+YY_CParser_NERRS	CParser.cc	267;"	d	file:
+YY_CParser_NERRS	CParser.h	/^ int YY_CParser_NERRS;$/;"	m	class:YY_CParser_INHERIT
+YY_CParser_NERRS	CParser.h	195;"	d
+YY_CParser_PARSE	CParser.cc	126;"	d	file:
+YY_CParser_PARSE	CParser.cc	252;"	d	file:
+YY_CParser_PARSE	CParser.h	180;"	d
+YY_CParser_PARSE	CParser.h	61;"	d
+YY_CParser_PARSE_PARAM	CParser.cc	127;"	d	file:
+YY_CParser_PARSE_PARAM	CParser.cc	279;"	d	file:
+YY_CParser_PARSE_PARAM	CParser.cc	287;"	d	file:
+YY_CParser_PARSE_PARAM	CParser.h	208;"	d
+YY_CParser_PARSE_PARAM	CParser.h	216;"	d
+YY_CParser_PARSE_PARAM	CParser.h	62;"	d
+YY_CParser_PARSE_PARAM_DEF	CParser.cc	281;"	d	file:
+YY_CParser_PARSE_PARAM_DEF	CParser.h	210;"	d
+YY_CParser_STYPE	CParser.cc	107;"	d	file:
+YY_CParser_STYPE	CParser.cc	162;"	d	file:
+YY_CParser_STYPE	CParser.cc	248;"	d	file:
+YY_CParser_STYPE	CParser.h	176;"	d
+YY_CParser_STYPE	CParser.h	42;"	d
+YY_CParser_STYPE	CParser.h	98;"	d
+YY_CParser_USE_CONST_TOKEN	CParser.cc	425;"	d	file:
+YY_CParser_USE_CONST_TOKEN	CParser.h	320;"	d
+YY_CParser_USE_GOTO	CParser.cc	177;"	d	file:
+YY_CParser_USE_GOTO	CParser.cc	183;"	d	file:
+YY_CParser_USE_GOTO	CParser.h	117;"	d
+YY_CParser_USE_GOTO	CParser.h	123;"	d
+YY_CParser_h_included	CParser.cc	1;"	d	file:
+YY_CParser_h_included	CParser.h	2;"	d
+YY_CURRENT_BUFFER	CLexer.cc	293;"	d	file:
+YY_DECL	CLexer.cc	168;"	d	file:
+YY_DO_BEFORE_ACTION	CLexer.cc	234;"	d	file:
+YY_END_OF_BUFFER	CLexer.cc	385;"	d	file:
+YY_END_OF_BUFFER_CHAR	CLexer.cc	183;"	d	file:
+YY_END_TOK	CLexer.cc	101;"	d	file:
+YY_FATAL_ERROR	CLexer.cc	152;"	d	file:
+YY_FATAL_ERROR	CLexer.cc	176;"	d	file:
+YY_INPUT	CLexer.cc	127;"	d	file:
+YY_INPUT	CLexer.cc	131;"	d	file:
+YY_INPUT	CLexer.cc	172;"	d	file:
+YY_MORE_ADJ	CLexer.cc	714;"	d	file:
+YY_NEW_FILE	CLexer.cc	185;"	d	file:
+YY_NULL	CLexer.cc	182;"	d	file:
+YY_PROTO	CLexer.cc	78;"	d	file:
+YY_PROTO	CLexer.cc	80;"	d	file:
+YY_PROTO	CLexer.h	45;"	d
+YY_PROTO	CLexer.h	47;"	d
+YY_READ_BUF_SIZE	CLexer.cc	90;"	d	file:
+YY_STATE_EOF	CLexer.cc	193;"	d	file:
+YY_USER_ACTION	CLexer.cc	377;"	d	file:
+YY_USER_ACTION	CLexer.h	65;"	d
+YY_USER_INIT	CLexer.cc	381;"	d	file:
+YY_USE_CLASS	CLexer.cc	42;"	d	file:
+YY_USE_CLASS	CLexer.h	27;"	d
+YY_USE_CLASS	CParser.cc	74;"	d	file:
+YY_USE_CLASS	CParser.h	13;"	d
+YY_USE_CONST	CLexer.cc	39;"	d	file:
+YY_USE_CONST	CLexer.cc	58;"	d	file:
+YY_USE_CONST	CLexer.cc	62;"	d	file:
+YY_USE_PROTOS	CLexer.cc	40;"	d	file:
+YY_USE_PROTOS	CLexer.cc	57;"	d	file:
+YY_USE_PROTOS	CLexer.h	24;"	d
+YY_USE_PROTOS	CLexer.h	35;"	d
+_MSDOS	CLexer.cc	27;"	d	file:
+_MSDOS	CLexer.cc	33;"	d	file:
+__ALLOCA_alloca	CParser.cc	1456;"	d	file:
+__ALLOCA_free	CParser.cc	1457;"	d	file:
+__ALLOCA_return	CParser.cc	1460;"	d	file:
+__ALLOCA_return	CParser.cc	1466;"	d	file:
+__HAVE_NO_ALLOCA	CParser.cc	34;"	d	file:
+__MSDOS_AND_ALIKE	CParser.cc	31;"	d	file:
+__MSDOS_AND_ALIKE	CParser.cc	35;"	d	file:
+__alloca_free_ptr	CParser.cc	/^int __alloca_free_ptr(char *ptr,char *ref)$/;"	f
+__cplusplus	CLexer.cc	21;"	d	file:
+__cplusplus	CLexer.h	19;"	d
+__cplusplus	CParser.cc	69;"	d	file:
+__cplusplus	CParser.h	8;"	d
+__yy_bcopy	CParser.cc	/^static void __yy_bcopy (char *from, char *to, int count)$/;"	f	file:
+__yy_bcopy	CParser.cc	1560;"	d	file:
+addLocation	Symbol.cpp	/^void Symbol::addLocation(int first_line, int first_column, int last_line, int last_column)$/;"	f	class:Symbol
+addString	ExtraString.cpp	/^void ExtraString::addString(ElementType type, string t)$/;"	f	class:ExtraString
+afterName	RecordTable.h	/^	string afterName;$/;"	m	class:Record
+afterObfuscated	IObfusNode.h	/^	string afterObfuscated;$/;"	m	class:IObfusNode
+alloca	CParser.cc	40;"	d	file:
+alloca	CParser.cc	49;"	d	file:
+appearedLocation	Symbol.h	/^	vector<SymbolLocation> appearedLocation;$/;"	m	class:Symbol
+baFile	ArgPack.h	/^	string baFile;$/;"	m	class:ArgPack
+beforeObfuscate	IObfusNode.h	/^	string beforeObfuscate;$/;"	m	class:IObfusNode
+begin	Node.cpp	/^list<Node*>::iterator Node::begin()$/;"	f	class:Node
+check_type	CAnalys.cc	/^int CAnalys::check_type(TokenValue &theValue)$/;"	f	class:CAnalys
+check_type	CLexer.cc	/^int CLexer::check_type(TokenValue &theValue)$/;"	f	class:CLexer
+childNodes	Node.h	/^	list<Node *> childNodes;$/;"	m	class:Node
+comment	CLexer.cc	/^void CLexer::comment(void)$/;"	f	class:CLexer
+comment2	CLexer.cc	/^void CLexer::comment2()$/;"	f	class:CLexer
+const	CLexer.cc	73;"	d	file:
+const	CParser.cc	78;"	d	file:
+content	ExtraString.h	/^	string content;$/;"	m	class:IExtraStringElement
+currentNotObfusIdTable	Obfuscator.h	/^	NotObfusIdTable *currentNotObfusIdTable;$/;"	m	class:Obfuscator
+currentSymbolTable	CAnalys.h	/^		SymbolTable *currentSymbolTable;$/;"	m	class:CAnalys
+currentSymbolTable	Obfuscator.h	/^	SymbolTable *currentSymbolTable;$/;"	m	class:Obfuscator
+currentTree	CAnalys.h	/^		Tree** currentTree;$/;"	m	class:CAnalys
+currentTree	Obfuscator.h	/^	Tree *currentTree;$/;"	m	class:Obfuscator
+custom	ArgPack.h	/^	string custom;$/;"	m	class:ArgPack
+custom	IdentifierGenerator.h	/^	string custom;$/;"	m	class:IdentifierGenerator
+defineString	Symbol.h	/^	string defineString;$/;"	m	class:Symbol
+elmentType	ExtraString.h	/^	enum ElementType { TYPESET, COMMENT, PREPROCESS } elmentType;$/;"	m	class:ExtraString	typeref:enum:ExtraString::ElementType
+end	Node.cpp	/^list<Node*>::iterator Node::end()$/;"	f	class:Node
+endLable	ONBlockItemList.h	/^	string endLable;$/;"	m	class:ONBlockItemList
+extraString	Node.h	/^	ExtraString *extraString;$/;"	m	class:Node
+extraString	TokenTypes.h	/^	ExtraString *extraString;$/;"	m	struct:__anon3
+file	CodeFile.h	/^	FILE *file;$/;"	m	class:CodeFile
+filename	CodeFile.h	/^	string filename;$/;"	m	class:CodeFile
+findIdentifierChildren	Node.cpp	/^void Node::findIdentifierChildren(vector<Node *> &found)$/;"	f	class:Node
+findIndexOfSequence	ONBlockItemList.cpp	/^int ONBlockItemList::findIndexOfSequence(int value)$/;"	f	class:ONBlockItemList
+findSymbol	SymbolTable.cpp	/^Symbol *SymbolTable::findSymbol(string name)$/;"	f	class:SymbolTable
+findTYPE_NAMESymbol	SymbolTable.cpp	/^Symbol *SymbolTable::findTYPE_NAMESymbol(string name)$/;"	f	class:SymbolTable
+first_column	CParser.cc	/^      int first_column;$/;"	m	struct:yyltype	file:
+first_column	CParser.h	/^      int first_column;$/;"	m	struct:yyltype
+first_column	Node.h	/^	int first_line,first_column;$/;"	m	class:Node
+first_column	RecordTable.h	/^	int first_line,first_column,last_line,last_column;$/;"	m	class:Record
+first_column	TokenTypes.h	/^	int first_line,last_line,first_column,last_column;$/;"	m	struct:__anon3
+first_column	TokenTypes.h	/^	int first_line,last_line,first_column,last_column;$/;"	m	struct:__anon4
+first_line	CParser.cc	/^      int first_line;$/;"	m	struct:yyltype	file:
+first_line	CParser.h	/^      int first_line;$/;"	m	struct:yyltype
+first_line	Node.h	/^	int first_line,first_column;$/;"	m	class:Node
+first_line	RecordTable.h	/^	int first_line,first_column,last_line,last_column;$/;"	m	class:Record
+first_line	TokenTypes.h	/^	int first_line,last_line,first_column,last_column;$/;"	m	struct:__anon3
+first_line	TokenTypes.h	/^	int first_line,last_line,first_column,last_column;$/;"	m	struct:__anon4
+funcName	Symbol.h	/^	string funcName;$/;"	m	class:Symbol
+functionDefineString	FunctionNode.h	/^	string functionDefineString;$/;"	m	class:FunctionNode
+functionName	FunctionNode.h	/^	string functionName;$/;"	m	class:FunctionNode
+get	IdentifierGenerator.h	/^	static IdentifierGenerator& get()$/;"	f	class:IdentifierGenerator
+get	NumberExpGenerator.h	/^	static NumberExpGenerator& get()$/;"	f	class:NumberExpGenerator
+getChild	Node.cpp	/^Node * Node::getChild(int index)$/;"	f	class:Node
+getConstantValue	ONConstant.cpp	/^bool ONConstant::getConstantValue(string str,double *value)$/;"	f	class:ONConstant
+getCurrentSymbolTable	CAnalys.h	/^		SymbolTable * getCurrentSymbolTable(void) { return currentSymbolTable;};$/;"	f	class:CAnalys
+getCurrentTree	CAnalys.h	/^		Tree * getCurrentTree(void) { return *currentTree; };$/;"	f	class:CAnalys
+getopt	getopt.h	/^getopt(int nargc, char * const *nargv, const char *ostr)$/;"	f
+globleVar	ONBlockItemList.h	/^	string globleVar;$/;"	m	class:ONBlockItemList
+hasExternToken	Node.cpp	/^bool Node::hasExternToken()$/;"	f	class:Node
+hasGotoStatement	Node.cpp	/^bool Node::hasGotoStatement()$/;"	f	class:Node
+hasId	NotObfusIdTable.cpp	/^bool NotObfusIdTable::hasId(string name)$/;"	f	class:NotObfusIdTable
+hasTypedefToken	Node.cpp	/^bool Node::hasTypedefToken()$/;"	f	class:Node
+idLength	IdentifierGenerator.h	/^	int idLength;$/;"	m	class:IdentifierGenerator
+idList	NotObfusIdTable.h	/^	vector<string> idList;$/;"	m	class:NotObfusIdTable
+idLookLike	IdentifierGenerator.h	/^	enum IdLookLike { LL_NORMAL, LL_O0, LL_l1, LL_CUSTOM } idLookLike;$/;"	m	class:IdentifierGenerator	typeref:enum:IdentifierGenerator::IdLookLike
+input	ArgPack.h	/^	string input;$/;"	m	class:ArgPack
+instance	IdentifierGenerator.cpp	/^IdentifierGenerator IdentifierGenerator::instance;$/;"	m	class:IdentifierGenerator	file:
+instance	IdentifierGenerator.h	/^	static IdentifierGenerator instance;$/;"	m	class:IdentifierGenerator
+instance	NumberExpGenerator.cpp	/^NumberExpGenerator NumberExpGenerator::instance;$/;"	m	class:NumberExpGenerator	file:
+instance	NumberExpGenerator.h	/^	static NumberExpGenerator instance;$/;"	m	class:NumberExpGenerator
+int2hexStr	NumberExpGenerator.cpp	/^string NumberExpGenerator::int2hexStr(int value)$/;"	f	class:NumberExpGenerator
+int2octStr	NumberExpGenerator.cpp	/^string NumberExpGenerator::int2octStr(int value)$/;"	f	class:NumberExpGenerator
+isDeclared	Symbol.h	/^	bool isDeclared;$/;"	m	class:Symbol
+isError	ArgPack.h	/^	bool isError;$/;"	m	class:ArgPack
+isError	CodeFile.h	/^	bool isError;$/;"	m	class:CodeFile
+isExist	SymbolTable.cpp	/^bool SymbolTable::isExist(string name)$/;"	f	class:SymbolTable
+isExistObfusc	SymbolTable.cpp	/^bool SymbolTable::isExistObfusc(string name)$/;"	f	class:SymbolTable
+isExistType	SymbolTable.cpp	/^bool SymbolTable::isExistType(string name)$/;"	f	class:SymbolTable
+isLetter	Node.cpp	/^bool Node::isLetter(char c)$/;"	f	class:Node
+isNode	Node.cpp	/^bool Node::isNode(string nodeTypeName)$/;"	f	class:Node
+isNotObfuscateFile	ArgPack.h	/^	bool isNotObfuscateFile;$/;"	m	class:ArgPack
+isObfuscateConstant	ArgPack.h	/^	bool isObfuscateConstant;$/;"	m	class:ArgPack
+isObfuscateConstant	ONBlockItemList.h	/^	bool isObfuscateConstant;$/;"	m	class:ONBlockItemList
+isObfuscateControlFlow	ArgPack.h	/^	bool isObfuscateControlFlow;$/;"	m	class:ArgPack
+isObfuscateIdentifier	ArgPack.h	/^	bool isObfuscateIdentifier;$/;"	m	class:ArgPack
+isObfuscateLoopStatement	ArgPack.h	/^	bool isObfuscateLoopStatement;$/;"	m	class:ArgPack
+isObfuscateString	ArgPack.h	/^	bool isObfuscateString;$/;"	m	class:ArgPack
+isObfuscated	Node.h	/^	bool isObfuscated;$/;"	m	class:Node
+isObfusced	Symbol.h	/^	bool isObfusced;$/;"	m	class:Symbol
+isOutputBAfile	ArgPack.h	/^	bool isOutputBAfile;$/;"	m	class:ArgPack
+isRemoveTypeset	ArgPack.h	/^	bool isRemoveTypeset;$/;"	m	class:ArgPack
+isRemoveTypeset	CodeFile.h	/^	bool isRemoveTypeset;$/;"	m	class:CodeFile
+isRemoveTypeset	ONBlockItemList.h	/^	bool isRemoveTypeset;$/;"	m	class:ONBlockItemList
+isRemoveTypeset	ONDoWhile.h	/^	bool isRemoveTypeset;$/;"	m	class:ONDoWhile
+isRemoveTypeset	ONFor.h	/^	bool isRemoveTypeset;$/;"	m	class:ONFor
+isRemoveTypeset	ONWhile.h	/^	bool isRemoveTypeset;$/;"	m	class:ONWhile
+isStatement	ONBlockItemList.cpp	/^bool ONBlockItemList::isStatement(Node *node)$/;"	f	class:ONBlockItemList
+isTYPE_NAMEFile	ArgPack.h	/^	bool isTYPE_NAMEFile;$/;"	m	class:ArgPack
+isToken	Node.cpp	/^bool Node::isToken(int tokenId)$/;"	f	class:Node
+iterator	Node.h	/^	typedef list<Node*>::iterator iterator;$/;"	t	class:Node
+last_column	CParser.cc	/^      int last_column;$/;"	m	struct:yyltype	file:
+last_column	CParser.h	/^      int last_column;$/;"	m	struct:yyltype
+last_column	Node.h	/^	int last_line, last_column;$/;"	m	class:Node
+last_column	RecordTable.h	/^	int first_line,first_column,last_line,last_column;$/;"	m	class:Record
+last_column	TokenTypes.h	/^	int first_line,last_line,first_column,last_column;$/;"	m	struct:__anon3
+last_column	TokenTypes.h	/^	int first_line,last_line,first_column,last_column;$/;"	m	struct:__anon4
+last_line	CParser.cc	/^      int last_line;$/;"	m	struct:yyltype	file:
+last_line	CParser.h	/^      int last_line;$/;"	m	struct:yyltype
+last_line	Node.h	/^	int last_line, last_column;$/;"	m	class:Node
+last_line	RecordTable.h	/^	int first_line,first_column,last_line,last_column;$/;"	m	class:Record
+last_line	TokenTypes.h	/^	int first_line,last_line,first_column,last_column;$/;"	m	struct:__anon3
+last_line	TokenTypes.h	/^	int first_line,last_line,first_column,last_column;$/;"	m	struct:__anon4
+list	ExtraString.h	/^	vector<IExtraStringElement *> list;$/;"	m	class:ExtraString
+list	RecordTable.h	/^	vector<Record> list;$/;"	m	class:RecordTable
+main	main.cc	/^void main(int argc, char* argv[]) {$/;"	f
+name	RecordTable.h	/^	string name;$/;"	m	class:Record
+name	Symbol.h	/^	string name;$/;"	m	class:Symbol
+nameAfterObfusc	Symbol.h	/^	string nameAfterObfusc;$/;"	m	class:Symbol
+noFile	ArgPack.h	/^	string noFile;$/;"	m	class:ArgPack
+node	CParser.cc	/^	Node * node;$/;"	m	union:__anon1	file:
+node	CParser.h	/^	Node * node;$/;"	m	union:__anon2
+nodeType	Node.h	/^	enum NodeType { TOKEN, NODE } nodeType;$/;"	m	class:Node	typeref:enum:Node::NodeType
+nodeTypeName	Node.h	/^	string nodeTypeName;$/;"	m	class:Node
+notObfusIdTable	IObfusNode.h	/^	NotObfusIdTable *notObfusIdTable;$/;"	m	class:IObfusNode
+notValue	CLexer.cc	/^void CLexer::notValue()$/;"	f	class:CLexer
+obfuscatedTokenString	Node.h	/^	string obfuscatedTokenString;$/;"	m	class:Node
+onList	Obfuscator.h	/^	vector<IObfusNode *> onList;$/;"	m	class:Obfuscator
+optarg	getopt.h	/^char    *optarg;                \/* argument associated with option *\/$/;"	v
+opterr	getopt.h	/^int     opterr = 1,             \/* if error message should be printed *\/$/;"	v
+optind	getopt.h	/^        optind = 1,             \/* index into parent argv vector *\/$/;"	v
+optopt	getopt.h	/^        optopt,                 \/* character checked for validity *\/$/;"	v
+optreset	getopt.h	/^        optreset;               \/* reset getopt *\/$/;"	v
+output	ArgPack.h	/^	string output;$/;"	m	class:ArgPack
+outputfilename	CodeFile.h	/^	string outputfilename;$/;"	m	class:CodeFile
+parent	Node.h	/^	Node *parent;$/;"	m	class:Node
+preString	Node.h	/^	string preString;$/;"	m	class:Node
+preString	TokenTypes.h	/^	string preString;$/;"	m	struct:__anon3
+preprocess	CLexer.cc	/^void CLexer::preprocess(void)$/;"	f	class:CLexer
+prestring2exstr	CLexer.cc	/^void CLexer::prestring2exstr()$/;"	f	class:CLexer
+recordTable	IObfusNode.h	/^	RecordTable *recordTable;$/;"	m	class:IObfusNode
+recordTable	Obfuscator.h	/^	RecordTable recordTable;$/;"	m	class:Obfuscator
+root	IObfusNode.h	/^	Node *root;$/;"	m	class:IObfusNode
+sccsid	getopt.h	/^static char sccsid[] = "@(#)getopt.c    8.3 (Berkeley) 4\/27\/95";$/;"	v
+scope	Symbol.h	/^	enum SymbolScope { GLOBAL, LOCAL } scope;$/;"	m	class:Symbol	typeref:enum:Symbol::SymbolScope
+sequence	ONBlockItemList.h	/^	vector<int> sequence;$/;"	m	class:ONBlockItemList
+setCurrentCodeFile	CAnalys.cc	/^void CAnalys::setCurrentCodeFile(CodeFile &file)$/;"	f	class:CAnalys
+setCurrentTree	CAnalys.h	/^		void setCurrentTree(Tree *value) { *currentTree = value; };$/;"	f	class:CAnalys
+startLable	ONBlockItemList.h	/^	string startLable;$/;"	m	class:ONBlockItemList
+storeType	Symbol.h	/^	string storeType;$/;"	m	class:Symbol
+symbolList	SymbolTable.h	/^	vector<Symbol *> symbolList;$/;"	m	class:SymbolTable
+symbolTable	CodeFile.h	/^	SymbolTable *symbolTable;$/;"	m	class:CodeFile
+symbolTable	IObfusNode.h	/^	SymbolTable *symbolTable;$/;"	m	class:IObfusNode
+text	CParser.cc	/^      char *text;$/;"	m	struct:yyltype	file:
+text	CParser.h	/^      char *text;$/;"	m	struct:yyltype
+text	TokenTypes.h	/^	char *text;$/;"	m	struct:__anon3
+theText	TokenTypes.h	/^	string theText;$/;"	m	struct:__anon3
+timestamp	CParser.cc	/^      int timestamp;$/;"	m	struct:yyltype	file:
+timestamp	CParser.h	/^      int timestamp;$/;"	m	struct:yyltype
+tmpGlobleVar	ONBlockItemList.h	/^	string tmpGlobleVar;$/;"	m	class:ONBlockItemList
+toShortString	ExtraString.cpp	/^string ExtraString::toShortString()$/;"	f	class:ExtraString
+toString	ExtraString.cpp	/^string ExtraString::toString()$/;"	f	class:ExtraString
+tokenId	Node.h	/^	int tokenId;$/;"	m	class:Node
+tokenId	TokenTypes.h	/^	int tokenId;$/;"	m	struct:__anon3
+tokenString	Node.h	/^	string tokenString;$/;"	m	class:Node
+traversaledList	Node.h	/^	list<Node*> traversaledList;$/;"	m	class:Node
+tree	CodeFile.h	/^	Tree *tree;$/;"	m	class:CodeFile
+type	ExtraString.h	/^	ExtraString::ElementType type;$/;"	m	class:IExtraStringElement
+type	Symbol.h	/^	enum SymbolType { IDENTIFIER, VAR, FUNC, TYPE_NAME } type;$/;"	m	class:Symbol	typeref:enum:Symbol::SymbolType
+typeNameFile	ArgPack.h	/^	string typeNameFile;$/;"	m	class:ArgPack
+unput	CLexer.cc	257;"	d	file:
+useage	ArgPack.cpp	/^void ArgPack::useage(char *proc)$/;"	f	class:ArgPack
+yy_CParser_stype	CParser.cc	/^} yy_CParser_stype;$/;"	t	typeref:union:__anon1	file:
+yy_CParser_stype	CParser.h	/^} yy_CParser_stype;$/;"	t	typeref:union:__anon2
+yy___echo	CLexer.cc	/^void YY_CLexer_CLASS::yy___echo()$/;"	f	class:YY_CLexer_CLASS
+yy___echo	CLexer.cc	224;"	d	file:
+yy___fatal_error	CLexer.cc	/^void YY_CLexer_CLASS::yy___fatal_error(char *msg)$/;"	f	class:YY_CLexer_CLASS
+yy___fatal_error	CLexer.cc	226;"	d	file:
+yy___flex_debug	CLexer.cc	218;"	d	file:
+yy___in	CLexer.cc	/^YY_CLexer_IFILE  *yy___in = (YY_CLexer_IFILE  *) 0;$/;"	v
+yy___in	CLexer.cc	208;"	d	file:
+yy___input	CLexer.cc	/^int  YY_CLexer_CLASS::yy___input(char * buffer,int &result,int max_size)$/;"	f	class:YY_CLexer_CLASS
+yy___input	CLexer.cc	225;"	d	file:
+yy___leng	CLexer.cc	/^int yy___leng;$/;"	v
+yy___leng	CLexer.cc	207;"	d	file:
+yy___newfile	CLexer.cc	210;"	d	file:
+yy___out	CLexer.cc	/^YY_CLexer_OFILE *yy___out = (YY_CLexer_OFILE  *) 0;$/;"	v
+yy___out	CLexer.cc	209;"	d	file:
+yy___stderr	CLexer.cc	205;"	d	file:
+yy___text	CLexer.cc	/^YY_CLexer_CHAR *yy___text;$/;"	v
+yy___text	CLexer.cc	206;"	d	file:
+yy___wrap	CLexer.cc	/^int  YY_CLexer_CLASS::yy___wrap()$/;"	f	class:YY_CLexer_CLASS
+yy___wrap	CLexer.cc	227;"	d	file:
+yy_accept	CLexer.cc	/^static const short int yy_accept[321] =$/;"	v	file:
+yy_base	CLexer.cc	/^static const short int yy_base[329] =$/;"	v	file:
+yy_buf_pos	CLexer.cc	/^    YY_CLexer_CHAR *yy_buf_pos;      \/* current position in input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_size	CLexer.cc	/^    int yy_buf_size;    $/;"	m	struct:yy_buffer_state	file:
+yy_buffer_state	CLexer.cc	/^struct yy_buffer_state$/;"	s	file:
+yy_c_buf_p	CLexer.cc	/^static YY_CLexer_CHAR *yy_c_buf_p = (YY_CLexer_CHAR *) 0;$/;"	v	file:
+yy_ch_buf	CLexer.cc	/^    YY_CLexer_CHAR *yy_ch_buf;               \/* input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_chk	CLexer.cc	/^static const short int yy_chk[594] =$/;"	v	file:
+yy_def	CLexer.cc	/^static const short int yy_def[329] =$/;"	v	file:
+yy_did_buffer_switch_on_eof	CLexer.cc	/^static int yy_did_buffer_switch_on_eof;$/;"	v	file:
+yy_ec	CLexer.cc	/^static const YY_CHAR yy_ec[256] =$/;"	v	file:
+yy_eof_status	CLexer.cc	/^    int yy_eof_status;          \/* whether we've seen an EOF on this buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_get_next_buffer	CLexer.cc	/^static int yy_get_next_buffer()$/;"	f	file:
+yy_get_previous_state	CLexer.cc	/^static yy_state_type yy_get_previous_state()$/;"	f	file:
+yy_get_previous_state	CLexer.cc	720;"	d	file:
+yy_hold_char	CLexer.cc	/^static YY_CLexer_CHAR yy_hold_char;$/;"	v	file:
+yy_init	CLexer.cc	/^static int yy_init = 1;         \/* whether we need to initialize *\/$/;"	v	file:
+yy_initialize	CLexer.cc	/^void YY_CLexer_CLASS::yy_initialize()$/;"	f	class:YY_CLexer_CLASS
+yy_input_file	CLexer.cc	/^    YY_CLexer_IFILE  *yy_input_file;$/;"	m	struct:yy_buffer_state	file:
+yy_last_accepting_cpos	CLexer.cc	/^static YY_CHAR *yy_last_accepting_cpos;$/;"	v	file:
+yy_last_accepting_state	CLexer.cc	/^static yy_state_type yy_last_accepting_state;$/;"	v	file:
+yy_meta	CLexer.cc	/^static const YY_CHAR yy_meta[71] =$/;"	v	file:
+yy_n_chars	CLexer.cc	/^    int yy_n_chars;$/;"	m	struct:yy_buffer_state	file:
+yy_n_chars	CLexer.cc	/^static int yy_n_chars;          \/* number of characters read into yy_ch_buf *\/$/;"	v	file:
+yy_new_buffer	CLexer.h	205;"	d
+yy_nxt	CLexer.cc	/^static const short int yy_nxt[594] =$/;"	v	file:
+yy_rule_linenum	CLexer.cc	/^static const short int yy_rule_linenum[101] =$/;"	v	file:
+yy_start	CLexer.cc	/^static int yy_start = 0;        \/* start state number *\/$/;"	v	file:
+yy_state_type	CLexer.cc	/^typedef int yy_state_type;$/;"	t	file:
+yy_try_NUL_trans	CLexer.cc	/^static yy_state_type yy_try_NUL_trans( register yy_state_type yy_current_state )$/;"	f	file:
+yy_try_NUL_trans	CLexer.cc	721;"	d	file:
+yycheck	CParser.cc	/^static const short yycheck[] = {     0,$/;"	v	file:
+yyclearin	CParser.cc	1480;"	d	file:
+yydefact	CParser.cc	/^static const short yydefact[] = {     0,$/;"	v	file:
+yydefgoto	CParser.cc	/^static const short yydefgoto[] = {   117,$/;"	v	file:
+yyerrok	CParser.cc	1479;"	d	file:
+yyinput	CLexer.cc	/^static int yyinput()$/;"	f	file:
+yyless	CLexer.cc	247;"	d	file:
+yyltype	CParser.cc	/^  struct yyltype$/;"	s	file:
+yyltype	CParser.cc	/^  yyltype;$/;"	t	typeref:struct:yyltype	file:
+yyltype	CParser.h	/^  struct yyltype$/;"	s
+yyltype	CParser.h	/^  yyltype;$/;"	t	typeref:struct:yyltype
+yymore	CLexer.cc	713;"	d	file:
+yypact	CParser.cc	/^static const short yypact[] = {  1177,$/;"	v	file:
+yypgoto	CParser.cc	/^static const short yypgoto[] = {-32768,$/;"	v	file:
+yyprhs	CParser.cc	/^static const short yyprhs[] = {     0,$/;"	v	file:
+yyr1	CParser.cc	/^static const short yyr1[] = {     0,$/;"	v	file:
+yyr2	CParser.cc	/^static const short yyr2[] = {     0,$/;"	v	file:
+yyrhs	CParser.cc	/^static const short yyrhs[] = {     3,$/;"	v	file:
+yyrline	CParser.cc	/^static const short yyrline[] = { 0,$/;"	v	file:
+yystype	CParser.cc	172;"	d	file:
+yystype	CParser.h	112;"	d
+yytable	CParser.cc	/^static const short yytable[] = {    28,$/;"	v	file:
+yyterminate	CLexer.cc	106;"	d	file:
+yytname	CParser.cc	/^static const char * const yytname[] = {   "$","error","$illegal.","IDENTIFIER",$/;"	v	file:
+yytranslate	CParser.cc	/^static const char yytranslate[] = {     0,$/;"	v	file:
+yyunput	CLexer.cc	/^static void yyunput( YY_CLexer_CHAR c, register YY_CLexer_CHAR *yy_bp )$/;"	f	file:
+yywrap	CLexer.cc	162;"	d	file:
+yywrap	CLexer.cc	177;"	d	file:
+~ArgPack	ArgPack.cpp	/^ArgPack::~ArgPack(void)$/;"	f	class:ArgPack
+~CAnalys	CAnalys.cc	/^CAnalys::~CAnalys()$/;"	f	class:CAnalys
+~CodeFile	CodeFile.cpp	/^CodeFile::~CodeFile(void)$/;"	f	class:CodeFile
+~CommentElement	ExtraString.h	/^	~CommentElement(){};$/;"	f	class:CommentElement
+~ExtraString	ExtraString.cpp	/^ExtraString::~ExtraString(void)$/;"	f	class:ExtraString
+~FunctionNode	FunctionNode.cpp	/^FunctionNode::~FunctionNode(void)$/;"	f	class:FunctionNode
+~IExtraStringElement	ExtraString.h	/^	virtual ~IExtraStringElement(){};$/;"	f	class:IExtraStringElement
+~IObfusNode	IObfusNode.h	/^	virtual ~IObfusNode(void)$/;"	f	class:IObfusNode
+~IdentifierGenerator	IdentifierGenerator.cpp	/^IdentifierGenerator::~IdentifierGenerator(void)$/;"	f	class:IdentifierGenerator
+~Node	Node.cpp	/^Node::~Node(void)$/;"	f	class:Node
+~NotObfusIdTable	NotObfusIdTable.cpp	/^NotObfusIdTable::~NotObfusIdTable(void)$/;"	f	class:NotObfusIdTable
+~NumberExpGenerator	NumberExpGenerator.cpp	/^NumberExpGenerator::~NumberExpGenerator(void)$/;"	f	class:NumberExpGenerator
+~ONBlockItemList	ONBlockItemList.cpp	/^ONBlockItemList::~ONBlockItemList(void)$/;"	f	class:ONBlockItemList
+~ONConstant	ONConstant.cpp	/^ONConstant::~ONConstant(void)$/;"	f	class:ONConstant
+~ONDoWhile	ONDoWhile.cpp	/^ONDoWhile::~ONDoWhile(void)$/;"	f	class:ONDoWhile
+~ONFor	ONFor.cpp	/^ONFor::~ONFor(void)$/;"	f	class:ONFor
+~ONIdentifier	ONIdentifier.cpp	/^ONIdentifier::~ONIdentifier(void)$/;"	f	class:ONIdentifier
+~ONString	ONString.cpp	/^ONString::~ONString(void)$/;"	f	class:ONString
+~ONWhile	ONWhile.cpp	/^ONWhile::~ONWhile(void)$/;"	f	class:ONWhile
+~Obfuscator	Obfuscator.cpp	/^Obfuscator::~Obfuscator(void)$/;"	f	class:Obfuscator
+~PreProcessElement	ExtraString.h	/^	~PreProcessElement(){};$/;"	f	class:PreProcessElement
+~RecordTable	RecordTable.cpp	/^RecordTable::~RecordTable(void)$/;"	f	class:RecordTable
+~Symbol	Symbol.cpp	/^Symbol::~Symbol(void)$/;"	f	class:Symbol
+~SymbolTable	SymbolTable.cpp	/^SymbolTable::~SymbolTable(void)$/;"	f	class:SymbolTable
+~Tree	Tree.cpp	/^Tree::~Tree(void)$/;"	f	class:Tree
+~TypesetElement	ExtraString.h	/^	~TypesetElement(){};$/;"	f	class:TypesetElement
+~YY_CLexer_CLASS	CLexer.cc	/^YY_CLexer_CLASS::~YY_CLexer_CLASS() $/;"	f	class:YY_CLexer_CLASS

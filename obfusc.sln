@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "obfusc", "obfusc\obfusc.vcxproj", "{4EC6E0E8-1BA0-41EF-95C3-A720FE870A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC6E0E8-1BA0-41EF-95C3-A720FE870A61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EC6E0E8-1BA0-41EF-95C3-A720FE870A61}.Debug|Win32.Build.0 = Debug|Win32
+		{4EC6E0E8-1BA0-41EF-95C3-A720FE870A61}.Release|Win32.ActiveCfg = Release|Win32
+		{4EC6E0E8-1BA0-41EF-95C3-A720FE870A61}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

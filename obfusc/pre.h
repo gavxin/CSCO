@@ -1,0 +1,17 @@
+#pragma once
+#include <stdio.h>
+#include <string.h>
+#include <iostream>
+#include <cstdarg>
+//#include <strstream>
+#include <sstream>
+#include <ostream>
+#include <vector>
+#include <list>
+#include <stdio.h>
+#include <ctime>
+#include <cstdlib>
+#include <string>
+#include <cassert>
+#include <fstream>
+#include <math.h>
